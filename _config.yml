@@ -169,16 +169,18 @@ callouts:
     color: yellow
   note:
     color: purple
-  important:
-    title: Important
+  monster:
+    title: Monster
     color: red
   josh:
     title: Sidebar - Josh
     color: green
-  warren:
-    title: Sidebar - Warren
+  item:
+    title: Item 
     color: blue
 
+sidebar_toc: true
+sidebar_toc_levels: "2..4"
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
@@ -191,6 +193,8 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-jtd-toc-nav
+  - jekyll-dice-tray
 
 kramdown:
   syntax_highlighter_opts:

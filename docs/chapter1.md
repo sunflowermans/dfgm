@@ -1,181 +1,233 @@
 ---
-title: Chapter 1&#58; Course Overview
-description: "Overview of the Designing Dungeons course, including its goals, tools, theoretical approach, and author information."
+title: "Puzzle Dungeon: The Seers Sanctum"
+description: "An eye-opening adventure for low-level OSE characters."
 nav_order: 1
 ---
 
-# Chapter 1: Course Overview
+# Puzzle Dungeon: The Seers Sanctum
 {: .no_toc }
-
-{: .note .callout}
-This chapter provides a high-level overview for the course **Designing Dungeons: Or How To Kill A Party In 30 Rooms or Less**. I'll introduce the goals of the series, discuss my theoretical approach to design, talk a bit about myself, and provide the tools used in this course.
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
-{: .highlight-title .callout}  
-> Audio version available
->  
-> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-1-course-overview-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+# Credits
 
----
+ROLEPLAYING ADVENTURE FOR CHARACTER LEVELS 1 THROUGH 3  
 
-# Introduction
+Requires *Old-School Essentials* to play. 
 
-Role-playing games have been around for fifty years, ever since Dave Arneson had a brain hemorrhage that was lovingly cared for by the world's worst shoe cobbler, Gary Gygax. Over these five decades, humans have said "I go into the dungeon" and then "You're dead" over and over and over. 
+© 2020, 2026 Directsun Games 
 
-As a GM, creating a dungeon can seem daunting, but it’s really just a series of *small, discrete tasks*. The creation process is fun for the GM and the discovery process is fun for the players.
+Version 3.2  
 
-In this series, I provide practical, step-by-step instructions on how to make a 30-room dungeon that is fun to play. You'll learn the nitty gritty of writing a dungeon from inception to completion: drawing the map, numbering the rooms, populating them with monsters, hiding treasure, and putting together notes that you can use at the table. 
+Written by **directsun** 
 
-Together, we'll create a dungeon. Like Bob Ross, you can follow along at home using the provided workbook. At each step, I'll talk through the design choices and philosophy of why I do things a certain way. And, like Bob Ross says, there's no wrong way to do things—you can make different choices as you follow along. At the end, we'll have a working dungeon you can actually run at the table.[^1]
+Cover art by **Jacob Fleming**  
 
-![](../../assets/images/overview-by-bertdrawsstuff.png)
+Interior art by **Munkao** 
 
-[^1]:
-    Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
+Floating eyeball art by **Alec Sorensen** 
 
-## You do not need a course to run dungeons 
+Layout by **Jesse Winter** 
 
-Something I have noticed is a trend of newer players shying away from running games or creating their own content because they don't think they're "good enough." This sentiment feels especially prevalent after D&D's upswing in popularity during the covid pandemic, with the rise of highly-manufactured reality TV actual plays and professional GMs. It breaks my heart because, of all art forms, RPGs are the one of the most generally accessible. **You do not need a course to GM or to create your own content.**
+Map by **Old School Jelly** 
 
-With good gaming groups, games are fun. You're rolling dice, drinking beer, and smearing Cheetos stains on your character sheet with greasy fingers. Your friends are funny. As you role-play together, you'll gloss over bad experiences. Good players will be charitable about the missteps of a good GM (and vice versa). 
+Line and copy editing by **Yossi Krausz** 
 
-{: .highlight-title .callout}
-Even sorta bad dungeons can be fun at the table. 
+*Playtesters*: CowardlyB, Justin Hamilton, Nick McClure, Laura Boucher, Lydia Snapp  
 
-So no matter what you do, you're going to have fun role-playing. This stuff is not super important.
+*Old-School Essentials* is a trademark of Necrotic Gnome. The trademark and *Old- School Essentials* logo are used with permission of Necrotic Gnome, under license. 
 
-That said, after playing for a long time, I know I have *more* fun when I approach games in a certain way. I enjoy the craft itself. That's why I'm writing this. 
+*Inspirational works*: Sufficiently Advanced Magic by Andrew Rowe, Tears of the Crocodile God by Will Doyle, The Legend of Zelda: Ocarina of Time, d100 minor magical items by Goblin Punch  
 
-GMing is something everyone can do, and do well, right from the start. There's no DMV to go to to get your GM license. But GMing is also something you *can* get better at. I have been playing for many years, and every year I feel like I'm learning more about it. So if you're interested in improving your skills, you will get hands-on experience by going through this series.
+**More resources and downloads available at [PuzzleDungeon.com](https://puzzledungeon.com)**
 
-# Who are the authors?
+# Overview
 
-## Josh McCrowell
-My name is Josh. At my day job, I'm a technical writer. In the evenings, I [blog about RPG stuff](https://riseupcomus.blogspot.com/). I wrote a game called *[His Majesty the Worm](https://www.hismajestytheworm.games/)*. I am combining these three professional interests into this series: I am using my career of instructional design to tell you how I play games. This makes me the most boring person alive.
+## Hook
 
-My game *His Majesty the Worm* is very focused on dungeon crawling. It's intended to support megadungeon campaigns. To this end, I dedicated an entire chapter on the subject of writing dungeons, which culminated in a tutorial dungeon level with commentary. You can check out this chapter for free, [here](https://riseupcomus.itch.io/dungeon-seeds). This course is going to repeat some of this content, but it's also going to expand it with practical examples.
+A wealthy patron is convinced that before the The Seers disappeared, they learned the secret of interplanar travel. Discover their method and the reward will be more than worth the risk.
 
-{: .josh }
-When you see a green callout like this, this is Josh talking about his approach to dungeon design using *His Majesty the Worm*. This advice is a little more specific and less "general old-school."
+## Entrance
 
-<!--NOTE TO SELF: I guess I should include an author headshot or something--> 
+In an abandoned monastery, a statue of a giant eye hides stairs that lead down to the [*Fetid Fountain* (1)](#1-fetid-fountain).
 
-## Warren D.
-My name is Warren. I, too, blog about RPG stuff at the [ICastLight! blog](https://icastlight.blogspot.com/)&mdash;mainly the OSE/BX games I run and play in on a weekly basis. I started my RPG journey with *TMNT and Other Strangeness* and *AD&D 2e (*plus *Planscape & Ravenloft)* along with a healthy smattering of *Shadowrun* and *Battletech.* After a long stint in boardgames, I returned to *D&D* via 5e, but shifted into the old-school scene after finding its DIY-attitude, creativity, mythic underworld-focus and play-centered approach energizing. The scene’s collective wisdom really reduces a burden on GMs allowing more games to hit the table. And this energy, excitement, and collected wisdom about dungeon design is what I hope gets imparted here!
+## Dungeon Features
 
-{: .warren }
-When you see a blue callout like this, this is Warren is talking to you directly. He often talks more specifically about B/X D&D.
+Unless otherwise noted, dungeon areas are unlit. Doors are made of iron and have no handles or hinges. They are meant to slide up into the ceiling when the proper lever in [*Pool* (2)](#2-pool) is flipped.
 
-## Audio version by Jon Britton 
-Each chapter has been recorded by Jon Britton, the referee of the excellent [3d6 Down the Line podcast](https://www.3d6downtheline.com/). Links to the audio recordings can be found nestled beneath each table of contents. You can also find the entire series (and lots of other great recorded blog posts) at [WeReadTheBloggies](https://podcast.bloggies.org/@WeReadTheBloggies).
+# Keys
 
-# An old-school approach
+## 1. Fetid Fountain
 
-Alright, time to use some acronyms and jargon. This is just to set expectations.
+![](../../assets/images/handouts/1_fetid fountain.png)
 
-In the aughts, there was a movement in RPG design called the Old-School Renaissance/Revival (OSR). It reexamined and reimagined the earliest editions of RPGs, extracting lessons for modern design. It emphasized problem solving, player choice, and simple, open-ended rulesets.[^2] It had settings that were at once realistic and down to earth and completely off the wall and swarming with magic robots.
+***A slick sheen covers the floors and walls.*** It is the lightly-acidic excretions of the [Gray Ooze](#gray-ooze) hiding in the fountain. 
 
-[^2]:
-    Definition quoted from [SavevsTotalPartyKill](https://save.vs.totalpartykill.ca/blog/negative-space-reprise/).
+***A fetid 7’ diameter fountain adorned with eyeless cherubs stands at the room’s center, its basin filled with stagnant, scum-laced water.*** The surface is murky, but the silver gleam of a sterling hand mirror (200 gp) shines through. The [Gray Ooze](#gray-ooze) lurks nearby. 
 
-Dungeons are central to play in "old-school" D&D. As such, the OSR thought a lot about what makes dungeons actually fun in practice. The OSR thinks about dungeons in a different way than, say, a Dungeon World module or a Pathfinder adventure path. Its best practices and principles are exemplified here. 
+***Seated on the edge of the fountain is a lifelike statue of a maiden frozen in an expression of dread.*** Her right hand clutches the air above the water. She appears to be gazing at the iron door to the south.
 
-{: .highlight-title .callout}
-> New to the old school?
+The gears that control the iron door of this room are broken. The door slides up with great effort from at least 2 party members. Unless propped open, the iron door will fall shut on its own.
+
+<div id="gray-ooze"></div>
+
+{: .monster}
+
+> **Gray Ooze** 
+>
+> Acidic amorphous blob that hides in plain sight.
+>
+> AC 8 [11], HD 3* (13hp), Att 1 × touch (2d8), THAC0 17 [+2], MV 10’ (3’), ML 12
+>
+> * **Acid**: Sticks to struck targets, automatically dealing 2d8 damage per round. Instantly dissolves non-magical armor.
+
+## 2. Pool
+
+***The middle of the room is a scum-filled pool. It runs from wall to wall, with its liquid resting just a foot below the rim.*** The water is 50’ feet deep and too cloudy to see through.  
+
+***On the south side of the pool, a pair of 3’ toggle levers jut from the floor, set opposite one another—one pointing north, the other south.*** Flipping the lever that’s pointed north opens or closes all the iron doors in this chamber except the damaged door to [*Fetid Fountain* (1)](#1-fetid-fountain). Flipping the lever that’s pointed south drains the pool over 10 minutes; flipping it again refills the pool in the same amount of time.
+
+
+
+A [Jelly Cube](#jelly-cube) is jammed within the mechanism that controls the pool’s water level. When the pool is emptied and refilled, the jelly is forced through the pipes that feed the chamber and reforms to its natural 10-foot cube shape, a [Jaunt Lens](#jaunt-lens) suspended within its transparent mass. Its bulk displaces the water enough to make the pool overflow by about an inch.
+
+<div id="jaunt-lens"></div>
+
+{: .item}
+
+> **Jaunt Lens**
+>
+> 4” loop of bronze around glass. 
+>
+> Reveals objects and passages that don’t normally exist when observed, such as the secret passage to the [*Treasure Room* (5)](#5-treasure-room) or the scroll tube in [*Monkey See* (7)](#7-monkey-see).  
+
+<div id="jelly-cube"></div>
+
+{: .monster} 
+
+> **Jelly Cube**
+>
+> 10’ block of nearly invisible ooze that slowly digests anything.
+>
+> AC 8 [11], HD 4* (18hp), Att 1 × touch, (2d4 + paralysis), THAC0 16 [+3], MV 60’ (20’), ML 12  
+>
+> * **Paralysis**: Save or be paralyzed for 2d4 turns.
+
+## 3. Petrification Pit
+
+***Chains with shackles and 7 gold-plated spears (20 gp each) hang from the walls of the room.***
+
+***Green light shines from inside a 4’ wall of stones circling a pit.*** The pit descends 80’ before opening into a room below (9). Its crumbling stonework makes it treacherous to climb. 30’ down, a stone figurehead of [The Medusa (10)](#the-medusa) juts from the south wall, its glowing green eyes fixed northward. Any flesh that falls under its gaze must save versus paralysis or turn to stone. 
+
+Beneath the statue’s head, a silver coffer engraved with coiling serpents (200 gp) rests in outstretched hands. Inside lies a [Jaunt Lens](#jaunt-lens). If severed from the wall, the head’s petrifying magic continues to function for a month.
+
+## 4. Transformation Chamber
+
+***Tattered leather straps with rusted buckles are attached to a large oak table littered with scalpels and serrated spoons.*** A crumpled hooded cultist cloak, all black, lies in a heap in the dust under the table. 
+
+***Faded carvings cover the walls and ceiling.*** They depict scenes of cultists having their eyes plucked out and placed in jars. The eyes swell in size to that of a small child. 
+
+Above the west door, a stone relief of a [Goat-Headed Demon](#goat-headed-demon) with a greataxe crouches over the lintel. Anyone examining the carvings will notice it and see the demon gain color and life, breaking free of the wall and dropping to the floor to block the exit. The demon attacks anyone that can see it. When unseen, it vanishes, returning to its stone perch above the doorway.
+
+***On the east wall, a carving of a blindfolded lion hangs above an archway that is solid stone where the opening should be.*** A hidden passage lies beyond, leading to [Treasure Room (5)](#5-treasure-room). The wall remains solid while any creature looks at it, but when unobserved, it can be passed through as if it weren’t there.  
+
+***12 stoppered clay jars, each 3’ wide, litter the rest of the room.*** Each jar holds a stillborn [Floating Eyeball (5)](#floating-eyeball).  
+
+<div id="goat-headed-demon"></div>
+
+{: .monster}
+> **Goat-Headed Demon**
+>
+> Cursed guardian with cold, sideways-slit eyes and a bleat that crawls up your spine.
+>
+> AC 5 [14], HD 4+1 (19hp), AT 1 × [Axe of Rending](#axe-of-rending) (1d8 + rend), THAC0 15 [+4], MV 90’ (30’), M 12
+>
+> * **Rend**: Successful attack rolls of 20 or higher reduce the target’s armor by 1.
+> * **Cursed**: Doomed to return to its carving above the lintel when unobserved.
+
+<div id="axe-of-rending"></div>
+
+{: .item}
+> **Axe of Rending**
+>
+> Successful attack rolls of 20 or higher reduce the target’s armor by 1.
+
+## 5. Treasure Room 
+
+***Piles of coins and jewels spill across the floor. Between them drift 4 [Floating Eyeballs](#floating-eyeball), 3’ in diameter. Sinuous tendrils trail behind each as they glide silently through the air.*** In sum, the piles of treasure hold:
+
+* 10,000 cp, 20,000 sp, 3,000 gp
+* 20 emeralds (50 gp each)
+* Staff topped with a cat’s eye—the wielder sees through the eye as if it were their own.
+* Golden monkey idol with its hands covering its eyes—any creature touching it is blinded while contact is maintained.
+
+The eyeballs guard the hoard from any who are not cultists. They float through the chamber, watching intruders with an unblinking stare, often hovering just over their shoulders. They attack only when threatened. During combat (or when non- cultists attempt to leave the room with treasure), one eyeball always fixes its gaze on the exit, sealing the room (attack rolls –4, AC –2 while watching). The eyeballs are conditioned to allow creatures resembling their cultist masters to leave with treasure. Simple disguises, soot-marked eyelids, or a well-timed “Hey, what’s that over there!?” are often enough to fool them.
+
+<div id="floating-eyeball"></div>
+
+{: .monster}
+> **Floating Eyeball**
+>
+> 3’ diameter eyeballs with lids and trailing sinew. Unbeatable at staring contests.
+>
+> AC 5 [14], HD 3* (14hp), Att 1 × eye ray or 1 x strangle (1d6), THAC0 17 [+2], MV 90’ (30’), M 12  
+>
+> **Eye ray**: Save versus wands or suffer effects that vary with pupil color.
 > 
-> See ["Further reading"](#new-to-the-osr) for links to more information.
+>| Pupil color | Ability           | Effect                                                    |
+| ----------- | ----------------- | ------------------------------------------------------------ |
+| Blue        | Ray of slow       | Movement and attacks are halved for 10 minutes.              |
+| Green       | Petrification ray | Turned to stone.                                             |
+| Purple      | Charm ray         | Convinced the eyeball is your trusted friend.                |
+| Yellow      | Sickness ray      | Spend the round retching. When finished, save versus poison or the sickness continues. |
 
-# Why dungeons for our dragons?<span class="label label-green">Theory</span>
-{: .d-inline-block }
+## 6. Blind Faith
 
-While there are lots of ways to approach RPGs, one of the unique things about this style of game is that players have "tactical infinity." That is to say, because the players' actions are adjudicated by a game master (GM, also called a "referee" in old-school games), a player can potentially have their character do anything. In a video game or a board game, your character can only do those things the game designers have anticipated you doing. Is there a low stone wall in a video game? Well, that blocks your character. In an RPG, you can do anything that is realistic in the world of the game. <img src="../../assets/images/levitation-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 40%;">You might climb the wall, hire a team of workers to tear it down, or train a dire mole to tunnel under it. You can try to do *anything*, because a real human is on the other side of the table telling a story about what actually happens based on your input.[^3]
+Anyone who gazes into the room hears squeaky hinges and a loud slam as the enchanted chest closes. When no one is looking, the hinges whine again as the chest opens.
 
-OSR games really value this kind of free input. One of the values of OSR games is that players should always have the ability to make informed, meaningful choices. Being able to make impactful choices elevates what makes RPGs special as a medium.
+***A stone statue stands, blindfolded with a soiled cloth, its gaze fixed upon an oak chest on the floor.*** The indestructible chest is carved with scores of humans shielding their eyes. When observed, it snaps shut with lightning speed, sundering non-magic obstructions in its path. The chest opens only when no one is looking—including the statue if its blindfold is removed and its eyes meet the chest. Inside, dozens of fat, slimy grubs writhe atop a serpentine silver key (100 gp) to [The Medusa’s Lair (10)](#10-medusas-lair). 
 
-[^3]:
-    Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
+Scratches mark the floor beside the statue revealing where it has been dragged aside to access the secret passage behind it—a cramped stairway leading down to [Purgatory’s Foyer (9)](#9-purgatorys-foyer).  
 
-## Thus, dungeons
+***5 black, hooded cultist cloaks hang from the walls.***
 
-Dungeons are an important element of fantasy adventure play because good dungeons are full of meaningful choices to be made. How do you get across the spiked pit? Do you accept the chained ogre's offer to set him free in exchange for a key to the treasure room? What do you do when you see a pile of gold sitting "undefended" in the middle of a room? 
+## 7. Monkey See  
 
-In a small, self-contained space, the players' choices in a dungeon build on themselves in a satisfying way. The players really feel that their choices matter when they fall to their death, get filthy lucre in exchange for the safety of the peasants of the nearby village, and cleverly avoid a hidden trap guarding the treasure.
+**A monkey statue gazes down at an empty silver offering plate (50gp) in its palms.** A scroll tube hovers above the plate, tangible only when unobserved. The moment any eyes—creature or statue—fall upon it, the tube vanishes, reappearing in place when no one is looking. 
 
-A dungeon offers something to both new gamers and veterans. A dungeon is a contained environment to practice the call-and-response form of play of RPGs. It's a discrete space that allows players to try *anything*, but limits logical choices. There are pits, but the player can't just borrow a pit-crossing ladder from their neighbor Bobert. (This kind of gameplay has more twists and turns both in wilderness hex crawling and urban, city-based games.)
+Inside the scroll tube rests a [Planar Tapestry](#7-monkey-see), which can be viewed normally once removed. The tapestry depicts a lifelike scene from another plane of existence—it might be the River of Souls, a brass city adrift on a sea of fire, or a castle against a gray forest backdrop. This can be any location you wish to send the party to upon solving the puzzle of the [Navigation Room (8)](#8-navigation-room).
 
-Finally, the almost universal idea of the "underworld" as an environment closer to dream, death, and divinity makes the space a universally understood and highly miscible setting for as many themes a creator might want to apply.
+## 8. Navigation Room
 
-{: .highlight-title .callout}
-> Jaquaysing the process
-> 
-> Creating a dungeon is mostly a non-linear process. This course is ordered in a series of discrete steps to help us make sense of what is, in practice, unsequenced work. As you take the lessons you learn here, don't imagine you have to adhere to the rigidity of pedagogy. Jump around from section to section as you're inspired, jot notes down on monsters while making your map, and so on.
+***A round table hosts a clutter of cartography. At the table’s center is a wheel marked with runes of different colors.*** Empty tapestry frames hang on the walls. Scattered sheets of parchment on the table describe impossible worlds, with continents formed from spiraling gas and floating mountains of glass and flame. 
 
-# Further reading
+The wheel’s central hub is fixed to a spindle, allowing it to turn freely. Atop the spindle rests a 4” bronze loop that holds a shattered glass lens. The device cannot function as a teleporter without an intact [Jaunt Lens](#jaunt-lens). Each rotation of the wheel aligns any attached [Jaunt Lens](#jaunt-lens) with one of the wall frames. Those looking at a   [Planar Tapestry](#7-monkey-see) through an intact lens are instantly teleported to the location depicted within.  
 
-Each chapter includes a "Further reading" section. These are links to texts that explain core concepts of RPGs, the OSR design movement, the history of gaming, and other relevant topics. If you're interested in following the rabbit hole on any particular subject, use these links to supplement your understanding of the dungeon design space.
+## 9. Purgatory’s Foyer 
 
-## New to this role-playing thing in general?
-{: .no_toc }
+***A circular hole in the ceiling glows faintly green. Scattered across the chamber are shattered stone limbs—hands, legs, and splintered heads—each eerily lifelike.*** These remains are all that’s left of the victims of the [Petrification Pit (3)](#3-petrification-pit).
 
-> "D&D is like television. This episode might be great. Don't you want to know what happens next episode?"
+The locked iron door to the east is decorated with entwined serpents.
 
-Here is a [video by Matt Colville called "Welcome to Dungeons and Dragons."](https://www.youtube.com/watch?v=Eo_oR7YO-Bw) In it, he talks through the basic expectations of the game: how often people play, what you do during play, etc. Great top level summary!
+## 10. Medusa's Lair
 
-## New to the OSR?
-{: .no_toc }
+***Braziers burn with green flame, casting shifting shadows across statues of armored warriors frozen mid-cower or recoil. Stepped landings are strewn with silk pillows, couches, and enormous shed snakeskins. Ornate columns rise overhead, carved with scenes of serpentine worship.***
 
-> "Don't prepare a plot for the players to follow. During the game, observe how players deal with a situation, and extrapolate the effects of their actions based on what you know. Don't plan the results too far ahead of time; players rarely do what you expect them to."
+[The Medusa](#the-medusa) dwells here. 1-in-4 chance she is asleep when the party arrives. When she learns her prison door has opened, she prioritizes escape over anything else.
 
-[The Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) is an introduction to the principles and playstyle of old-school gaming. It is a more serious expansion of the brief introduction to the term "OSR" in this chapter.
+{: .monster}
+> **The Medusa**
+>
+> Bow-wielding half-snake legend with snakes for hair.
+>
+> AC 8 [11], HD 4** (18hp), Att 1 × snake bites (1d6 + venom) or 1 x arrow (1d6), THAC0 16 [+3], MV 90’ (30’), ML 8
+>
+> * **Petrification**: Those looking at The Medusa must save or be turned to stone.
+> * **Averting eyes**: Attack rolls –4, AC –2.
+> * **Mirrors**: The Medusa’s reflection does not cause paralysis.
+> * **Venom**: Save versus death when bitten.
 
-### Basic OSR principles for 5E players
-{: .no_toc }
-
-> "Reward creative thinking and problem solving. If a player makes a good enough argument, they shouldn't need to roll any dice; they just succeed."
-
-Yochai Gal, creator of the game *Cairn*, also explains the framing of old-school play in his post ["Basic OSR Principles."](https://newschoolrevolution.com/basic-osr-principles/) While covering the same ground as the Principia Apocrypha, it approaches the principles for readers who are most familiar with D&D 5E, so his post is a helpful alternative framing for this audience.
-
-### Do you want to learn even more about OSR gaming?
-{: .no_toc }
-
-[Knock!](https://www.themerrymushmen.com/shop-tmm/) is a series of zines that aggregate the collective wisdom and weirdness of the OSR scene. Between its covers, you can find some of the most well-known OSR essays, strange bits of apocrypha, gameable tables, funky art, new classes, and ready-to-run dungeons. It's exquisitely produced. Some of the issues are even edited by yours truly.
-
-### Do you want to learn how to referee OSR-style games?
-{: .no_toc }
-
-Arnold of Goblinpunch has released a teaching dungeon with commentary called [The Mouth of Mormo](https://goblinpunch.blogspot.com/2025/08/the-mouth-of-mormo.html). Check out the jumbo version to see his explanations of why the dungeon is structured the way it is, and how he recommends approaching rulings, combat, when to call for initiative, handling secrets, and more. Invaluable resource.
-
-## Why are dungeons the "right size"?
-{: .no_toc }
-
-> "The core activity of roleplaying games is making decisions. Every other activity feeds back into this core in one way or another."
-
-[The Basis of the Game are Interesting Decisions by Retired Adventurer](https://retiredadventurer.blogspot.com/2019/01/the-basis-of-game-is-making-decisions.html) is an essay that discusses a simple fact about games of all sorts: making decisions is the fun part. 
-
-## What are megadungeons and the mythic underworld?
-{: .no_toc }
-
-[Philotomy's Musings](https://www.grey-elf.com/philotomy.pdf) was one of the earliest series of essays about the old-school playstyle found in the original D&D texts. It defines the mythic underworld in this way:  
-
-> *1. It’s big, and has many levels; in fact, it may be endless*  
-> *2. It follows its own ecological and physical rules*  
-> *3. It is not static; the inhabitants and even the layout may grow or change over time*  
-> *4. It is not linear*   
-> *5. There are many ways to move up and down through the levels*  
-> *6. Its purpose is mysterious or shrouded in legend*  
-> *7. It’s inimical to those exploring it*  
-> *8. Deeper or farther levels are more dangerous*  
-> *9. It’s a (the?) central feature of the campaign*  
-
-Read the rest of the essays to become more familiar with some of the other terms used in this course.
-
-
-![](../../assets/images/rams-dungeon.png)
-(Peak dungeon design by [SavevsTotalPartyKill](https://save.vs.totalpartykill.ca/).)
-   
----

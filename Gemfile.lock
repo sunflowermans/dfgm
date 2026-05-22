@@ -7,6 +7,20 @@ PATH
       jekyll-seo-tag (>= 2.0)
       rake (>= 12.3.1)
 
+PATH
+  remote: /home/chris/projects/dice-tray
+  specs:
+    jekyll-dice-tray (0.1.0)
+      jekyll (>= 3.7, < 5.0)
+      nokogiri (>= 1.14)
+
+PATH
+  remote: /home/chris/projects/toc-nav-2
+  specs:
+    jekyll-jtd-toc-nav (0.1.0)
+      jekyll (>= 3.8)
+      nokogiri (>= 1.13)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -183,8 +197,10 @@ PLATFORMS
 DEPENDENCIES
   bundler (>= 2.3.5)
   html-proofer (~> 5.2)
+  jekyll-dice-tray!
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
+  jekyll-jtd-toc-nav!
   jekyll-sitemap
   just-the-docs!
 
