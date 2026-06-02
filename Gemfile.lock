@@ -15,6 +15,18 @@ PATH
       nokogiri (>= 1.14)
 
 PATH
+  remote: /home/chris/projects/hover-popup
+  specs:
+    jekyll-hover-popup (0.1.0)
+      jekyll (>= 3.7, < 5.0)
+
+PATH
+  remote: /home/chris/projects/image-links
+  specs:
+    jekyll-image-links (0.1.0)
+      jekyll (>= 3.7, < 5.0)
+
+PATH
   remote: /home/chris/projects/toc-nav-2
   specs:
     jekyll-jtd-toc-nav (0.1.0)
@@ -199,6 +211,8 @@ DEPENDENCIES
   html-proofer (~> 5.2)
   jekyll-dice-tray!
   jekyll-github-metadata (>= 2.15)
+  jekyll-hover-popup!
+  jekyll-image-links!
   jekyll-include-cache
   jekyll-jtd-toc-nav!
   jekyll-sitemap

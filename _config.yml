@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Designing Dungeons
-description: A course on building dungeons for your elfgames
+title: Digital-first GM
+description: Run your elfgames focused on digital-first.
 theme: just-the-docs
 baseurl: ""
 url: "https://dungeons.hismajestytheworm.games"
@@ -111,8 +111,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Return to the Rise Up Comus blog":
-    - "https://riseupcomus.blogspot.com/"
+  "Return to the Puzzle Dungeon blog":
+    - "https://puzzledungeon.com/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -127,10 +127,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Designing Dungeons Workbook
-    url: https://docs.google.com/document/d/1h0xu81Du6PE9b-PNWk6yFeGEYwFYSW2Yru9Ecda57Wk/edit?usp=sharing
-  - title: Return to the Worm
-    url: https://www.hismajestytheworm.games/
+  - title: Directsun Games
+    url: https://puzzledungeon.com/games/
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
@@ -176,11 +174,11 @@ callouts:
     title: Sidebar - Josh
     color: green
   item:
-    title: Item 
+    title: Item
     color: blue
 
 sidebar_toc: true
-sidebar_toc_levels: "2..4"
+sidebar_toc_levels: "1..4"
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
@@ -195,6 +193,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-jtd-toc-nav
   - jekyll-dice-tray
+  - jekyll-hover-popup
+  - jekyll-image-links
+
+image_links:
+  enabled: true
+  viewer_by_default: true
+  inline_by_default: true
+  labels_by_default: false
 
 kramdown:
   syntax_highlighter_opts:
