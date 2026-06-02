@@ -61,8 +61,30 @@ Unless otherwise noted, dungeon areas are unlit. Doors are made of iron and have
 
 # Map
 
-{% image_map src="/assets/images/seers-map.png" width="1650" height="2550" title="The Seers Sanctum" file="assets/maps/seers-sanctum.yml" %}
-{% endimage_map %}
+{::nomarkdown}
+<figure
+  class="jil-figure"
+  data-jil-map="true"
+  data-jil-src="/assets/images/seers-map.png"
+  data-jil-width="1650"
+  data-jil-height="2550"
+  data-jil-title="The Seers Sanctum"
+  data-jil-regions="assets/maps/seers-sanctum.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="false"
+>
+  <img
+    class="jil-map-image"
+    src="/assets/images/seers-map.png"
+    alt="The Seers Sanctum"
+    width="1650"
+    height="2550"
+    loading="lazy"
+  />
+  <figcaption class="jil-caption">The Seers Sanctum</figcaption>
+</figure>
+{:/nomarkdown}
 
 
 
