@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Driver Ant
+{: .no_toc }
 
 Giant (6’ long), omnivorous, black ants.
 

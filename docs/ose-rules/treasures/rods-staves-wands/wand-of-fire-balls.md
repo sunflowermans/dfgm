@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Fire Balls
+{: .no_toc }
 
 Conjures fire balls:
 

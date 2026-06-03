@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Land Vehicles
+{: .no_toc }
 
 | Vehicle | Cost (gp) | Miles per Day | Movement Rate |      Minimum Animals      | Max Load (Coins) |       Extra Animals       | Max Load (Coins) |
 | :------ | :-------: | :-----------: | :-----------: | :-----------------------: | :--------------: | :-----------------------: | :--------------: |

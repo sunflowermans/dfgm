@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Gaseous Form
+{: .no_toc }
 
 The character’s body becomes a cloud of vapor. This has the following effects:
 

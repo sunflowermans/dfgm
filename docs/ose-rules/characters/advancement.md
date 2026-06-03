@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Advancement
+{: .no_toc }
 
 # Experience
 

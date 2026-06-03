@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Wilderness Adventuring
+{: .no_toc }
 
 ## Sequence of Play Per Day
 

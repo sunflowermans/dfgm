@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Ability Scores
+{: .no_toc }
 
 A character’s score in each ability determines whether they have any bonuses or penalties associated with various actions in the game. The tables below list the modifiers associated with each ability score, with the effects described below.
 

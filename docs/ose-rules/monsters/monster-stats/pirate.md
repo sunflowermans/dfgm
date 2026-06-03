@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Pirate
+{: .no_toc }
 
 Sailors who make a living by raiding coastal settlements, robbing other ships, and illegal slaving. Typically ply the open seas. Renowned for their ruthless and evil ways.
 

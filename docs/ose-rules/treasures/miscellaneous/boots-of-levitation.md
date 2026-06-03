@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Boots of Levitation
+{: .no_toc }
 
 The wearer can move up and down through the air at will.
 

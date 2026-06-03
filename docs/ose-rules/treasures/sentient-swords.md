@@ -5,6 +5,7 @@ nav_order: 13
 ---
 
 # Sentient Swords
+{: .no_toc }
 
 If a magic sword possesses sentience (see [Swords](/docs/ose-rules/treasures/swords/) for the likelihood), the procedure on this page may be used to determine its powers. (Alternatively, the referee may select its qualities as desired.)
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Berserker
+{: .no_toc }
 
 Fighters who enter a rage in battle. They never take prisoners.
 

@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Anti-Magic Shell
+{: .no_toc }
 
 *6th Level Magic-User Spell*
 

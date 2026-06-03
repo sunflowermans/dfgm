@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Cyclops
+{: .no_toc }
 
 20’ tall humanoids with a single, central eye. Dwell in caves, alone or in small groups. Cultivate grapes and raise sheep.
 

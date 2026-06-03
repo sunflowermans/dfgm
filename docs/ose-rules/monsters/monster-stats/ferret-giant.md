@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ferret, Giant
+{: .no_toc }
 
 3’ long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude.
 

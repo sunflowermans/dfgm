@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Elemental Summoning Device
+{: .no_toc }
 
 Ritual items enchanted with the power to summon beings from the elemental planes. Each elemental plane has a different type of device:
 

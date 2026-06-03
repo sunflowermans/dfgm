@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Whale
+{: .no_toc }
 
 ## Killer Whale
 

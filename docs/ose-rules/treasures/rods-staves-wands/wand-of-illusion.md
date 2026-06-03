@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Illusion
+{: .no_toc }
 
 Expending a charge, an illusion of the character’s choosing manifests. This works in the same way as the magic-user spell **phantasmal force**, except:
 

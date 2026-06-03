@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Horse
+{: .no_toc }
 
 Herd animals that are often used for transportation. Many different domesticated breeds exist.
 

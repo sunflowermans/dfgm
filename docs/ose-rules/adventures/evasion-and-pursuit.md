@@ -5,6 +5,7 @@ nav_order: 9
 ---
 
 # Evasion and Pursuit
+{: .no_toc }
 
 ## In the Dungeon
 

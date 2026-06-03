@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Armor and Shields
+{: .no_toc }
 
 | B: d4 | X: d% | Item                            |
 | :---: | :---: | :------------------------------ |

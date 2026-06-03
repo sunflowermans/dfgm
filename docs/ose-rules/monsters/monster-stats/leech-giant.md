@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Leech, Giant
+{: .no_toc }
 
 Horrid, 3–4’ long, slug-like creatures with sucker mouths. Lurk in swamps.
 

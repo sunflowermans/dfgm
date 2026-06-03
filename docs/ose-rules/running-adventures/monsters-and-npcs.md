@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Monsters and NPCs
+{: .no_toc }
 
 The referee is responsible for deciding how monsters and NPCs react when encountered and what schemes and tactics they follow when the PCs are elsewhere.
 

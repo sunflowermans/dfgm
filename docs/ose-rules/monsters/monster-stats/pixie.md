@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Pixie
+{: .no_toc }
 
 1–2’ tall humanoids with insectoid wings. Distant relatives of elves.
 

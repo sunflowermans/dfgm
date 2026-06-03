@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Cat, Great
+{: .no_toc }
 
 Cautious hunters that usually avoid combat with humans unless starving or cornered. Great cats may be playful, but are quick to anger. They remain outdoors, rarely venturing deep underground.
 

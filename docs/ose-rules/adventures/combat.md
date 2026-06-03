@@ -5,6 +5,7 @@ nav_order: 10
 ---
 
 # Combat
+{: .no_toc }
 
 ## Combat Sequence Per Round
 

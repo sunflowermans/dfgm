@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Robber Fly
+{: .no_toc }
 
 3’ long, carnivorous flies with yellow and black stripes. Look similar to killer bees, which they hunt. May attack humans.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Fish, Giant
+{: .no_toc }
 
 ## Giant Bass
 

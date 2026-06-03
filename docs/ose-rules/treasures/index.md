@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Treasures
+{: .no_toc }

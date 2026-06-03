@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Djinni (Lesser)
+{: .no_toc }
 
 Highly magical, free-willed, intelligent beings from the elemental plane of air. Tall humanoids wreathed in clouds.
 

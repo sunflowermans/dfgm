@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Cure Disease (Cause Disease)
+{: .no_toc }
 
 *3rd Level Cleric Spell*
 

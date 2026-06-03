@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Geas (Remove Geas)
+{: .no_toc }
 
 *6th Level Magic-User Spell*
 

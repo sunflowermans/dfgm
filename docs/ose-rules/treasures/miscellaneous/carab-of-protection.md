@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Scarab of Protection
+{: .no_toc }
 
 Protects the bearer from baleful magic.
 

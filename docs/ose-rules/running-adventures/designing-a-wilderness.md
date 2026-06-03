@@ -5,6 +5,7 @@ nav_order: 7
 ---
 
 # Designing a Wilderness
+{: .no_toc }
 
 ## 1. Choose the Setting
 

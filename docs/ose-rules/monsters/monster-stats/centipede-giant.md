@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Centipede, Giant
+{: .no_toc }
 
 1’ long centipedes that dwell in dark, damp locations.
 

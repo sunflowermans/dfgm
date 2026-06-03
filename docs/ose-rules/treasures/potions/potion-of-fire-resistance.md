@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Fire Resistance
+{: .no_toc }
 
 Grants protection against fire:
 

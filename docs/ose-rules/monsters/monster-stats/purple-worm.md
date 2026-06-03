@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Purple Worm
+{: .no_toc }
 
 Gigantic, slimy worms with bodies 100’ long and 8–10’ thick. Bore tunnels through the earth and come to the surface to eat other creatures.
 

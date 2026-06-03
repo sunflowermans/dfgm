@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Silence 15’ Radius
+{: .no_toc }
 
 *2nd Level Cleric Spell*
 

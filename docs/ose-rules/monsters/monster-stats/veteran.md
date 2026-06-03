@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Veteran
+{: .no_toc }
 
 Low-level fighters, often on their way to or from war.
 

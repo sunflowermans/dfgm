@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Medium
+{: .no_toc }
 
 1st level NPC magic-users.
 

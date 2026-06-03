@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Troglodyte
+{: .no_toc }
 
 Intelligent, reptilian humanoids with agile hands, long legs, short tails, and spiky combs on their heads and arms.
 

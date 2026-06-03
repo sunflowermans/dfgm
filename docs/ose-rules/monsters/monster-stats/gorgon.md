@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Gorgon
+{: .no_toc }
 
 Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills.
 

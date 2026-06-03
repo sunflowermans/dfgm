@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Unicorn
+{: .no_toc }
 
 Fantastic creatures that appear as elegant horses with a long horn. Unicorns are timid but proud and wilful.
 

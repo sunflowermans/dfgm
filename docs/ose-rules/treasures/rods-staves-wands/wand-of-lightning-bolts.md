@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Lightning Bolts
+{: .no_toc }
 
 Conjures strokes of powerful electricity:
 

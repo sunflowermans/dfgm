@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Sea Serpent (Lesser)
+{: .no_toc }
 
 20’–30’ long, serpent-like sea monsters with rows of many fins.
 

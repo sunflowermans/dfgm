@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Damage, Healing, and Death
+{: .no_toc }
 
 All characters and monsters have a hit point total, representing their ability to avoid death. Many attack forms, including attacks with weapons in combat, subtract hit points from this pool.
 

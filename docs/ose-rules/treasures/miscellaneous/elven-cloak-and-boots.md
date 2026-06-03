@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Elven Cloak and Boots
+{: .no_toc }
 
 A set of enchanted boots and a matching cloak of elven origin.
 

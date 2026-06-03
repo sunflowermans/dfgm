@@ -5,6 +5,7 @@ nav_order: 9
 ---
 
 # Mercenaries
+{: .no_toc }
 
 Hired soldiers who will guard, patrol, and otherwise serve in wilderness settings, but only as part of a larger force, not an adventuring party. Mercenaries do not accompany characters on adventures.
 

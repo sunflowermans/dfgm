@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Know Alignment
+{: .no_toc }
 
 *2nd Level Cleric Spell*
 

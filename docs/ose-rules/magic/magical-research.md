@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Magical Research
+{: .no_toc }
 
 Many spell-casting character classes can also perform research into new spells, magic items, and other magical effects, as noted in the class description. This requires time, monetary outlay, and sometimes rare and unusual ingredients.
 

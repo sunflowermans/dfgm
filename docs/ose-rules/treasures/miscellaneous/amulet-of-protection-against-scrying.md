@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Amulet of Protection Against Scrying
+{: .no_toc }
 
 An amulet that provides protection against remote viewing and mind-reading.
 

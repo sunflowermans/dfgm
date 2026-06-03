@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Gargoyle
+{: .no_toc }
 
 Magical monsters that look like hideous, horned, winged statues. Semi-intelligent and possessed of a great cunning.
 

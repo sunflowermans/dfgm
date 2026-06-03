@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Poison
+{: .no_toc }
 
 Appears the same as any other potion.
 

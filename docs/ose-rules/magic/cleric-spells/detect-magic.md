@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Detect Magic (C)
+{: .no_toc }
 
 *1st Level Cleric Spell*
 

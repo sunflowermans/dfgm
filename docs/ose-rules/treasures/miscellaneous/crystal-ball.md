@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Crystal Ball
+{: .no_toc }
 
 Allows an arcane spell caster to view any place or object that is brought to mind:
 

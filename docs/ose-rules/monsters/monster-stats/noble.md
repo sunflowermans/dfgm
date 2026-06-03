@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Noble
+{: .no_toc }
 
 Powerful humans with noble titles (e.g. Count, Duke, Knight, etc.). Dwell in castles.
 

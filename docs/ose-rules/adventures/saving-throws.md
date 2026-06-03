@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Saving Throws
+{: .no_toc }
 
 All characters and monsters can make saving throws to avoid the full effects of certain magical or special attacks.
 

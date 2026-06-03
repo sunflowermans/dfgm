@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Purify Food and Water
+{: .no_toc }
 
 *1st Level Cleric Spell*
 

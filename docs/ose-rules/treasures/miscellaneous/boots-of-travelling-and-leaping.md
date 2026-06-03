@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Boots of Travelling and Leaping
+{: .no_toc }
 
 The wearer can travel without tiring and leap great distances.
 

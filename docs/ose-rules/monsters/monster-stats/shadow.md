@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Shadow
+{: .no_toc }
 
 Intelligent, incorporeal (but not undead monsters that look like shadows. Able to slightly change their shape.
 

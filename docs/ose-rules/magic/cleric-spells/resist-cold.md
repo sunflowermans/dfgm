@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Resist Cold
+{: .no_toc }
 
 *1st Level Cleric Spell*
 

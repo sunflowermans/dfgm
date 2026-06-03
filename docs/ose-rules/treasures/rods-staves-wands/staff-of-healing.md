@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Staff of Healing
+{: .no_toc }
 
 Has the power to heal those touched.
 

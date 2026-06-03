@@ -5,6 +5,7 @@ nav_order: 8
 ---
 
 # Encounters 
+{: .no_toc }
 
 An encounter begins when characters meet a monster due to a planned encounter in the explored area or because a wandering monster check (see [Wandering Monsters](/docs/ose-rules/adventures/hazards-and-challenges/#wandering-monsters)) indicates an encounter.
 

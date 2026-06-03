@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Elemental
+{: .no_toc }
 
 Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user.
 

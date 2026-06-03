@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Polymorph
+{: .no_toc }
 
 By expending a charge, the wielder of the wand or another creature within 60’ changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells *polymorph self* and *polymorph others*.
 

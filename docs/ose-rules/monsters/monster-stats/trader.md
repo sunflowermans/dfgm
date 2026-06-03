@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Trader
+{: .no_toc }
 
 1st level fighters who live by trading in borderland areas.
 

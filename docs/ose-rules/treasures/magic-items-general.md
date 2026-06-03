@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Magic Items (General)
+{: .no_toc }
 
 Magic items are usually classified according to one of the following categories:
 

@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Conjure Elemental
+{: .no_toc }
 
 *5th Level Magic-User Spell*
 

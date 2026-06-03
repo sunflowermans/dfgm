@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Hold Person (MU)
+{: .no_toc }
 
 *3rd Level Magic-User Spell*
 

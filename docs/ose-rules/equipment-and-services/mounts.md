@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Mounts
+{: .no_toc }
 
 ## Animals of Burden
 

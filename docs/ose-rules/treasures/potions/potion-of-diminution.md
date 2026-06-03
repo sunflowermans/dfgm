@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Diminution
+{: .no_toc }
 
 The character shrinks to 6” high.
 

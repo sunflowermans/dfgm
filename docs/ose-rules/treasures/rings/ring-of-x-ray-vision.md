@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of X-Ray Vision
+{: .no_toc }
 
 Grants the power to see through solid objects.
 

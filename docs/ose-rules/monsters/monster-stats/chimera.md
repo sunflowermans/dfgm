@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Chimera
+{: .no_toc }
 
 Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarters of a goat, the wings of a dragon, and three heads: goat, lion, and dragon. Dwell in wild, hilly areas, or sometimes in dungeons.
 

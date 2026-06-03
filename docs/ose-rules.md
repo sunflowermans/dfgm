@@ -5,6 +5,7 @@ nav_order: 1
 has_children: true
 ---
 # Old-School Essentials Rules Reference
+{: .no_toc }
 
 System Reference Document for *[Old-School Essentials](https://necroticgnome.com/pages/about-old-school-essentials)* by Necrotic Gnome. Converted from the [Obsidian TTRPG Community repository](https://github.com/Obsidian-TTRPG-Community/Old-School-Essentials-Markdown/tree/main).
 

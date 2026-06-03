@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Black Pudding
+{: .no_toc }
 
 Huge (5’–30’ across), mindless blobs of amorphous black jelly. Driven by ravenous hunger.
 

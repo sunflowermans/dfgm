@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Kobold
+{: .no_toc }
 
 Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell underground.
 

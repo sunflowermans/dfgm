@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Spectre
+{: .no_toc }
 
 Incorporeal phantoms; one of the most powerful undead monsters.
 

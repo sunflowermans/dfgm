@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Scrolls and Maps
+{: .no_toc }
 
 | B: d8 | X: d% | Scroll                  |
 | :---: | :---: | :---------------------- |

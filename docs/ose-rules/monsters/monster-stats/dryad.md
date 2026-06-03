@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Dryad
+{: .no_toc }
 
 Shy, peaceful, yet wary tree spirits that can manifest as beautiful female humanoids. Live in deep forests.
 

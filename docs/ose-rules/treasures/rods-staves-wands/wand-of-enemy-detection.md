@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Enemy Detection
+{: .no_toc }
 
 Grants the power to detect nearby enemies.
 

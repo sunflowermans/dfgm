@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Bag of Devouring
+{: .no_toc }
 
 A normal-looking, small sack that devours objects placed inside it.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Delusion
+{: .no_toc }
 
 The wearer believes is under the effects of another type of magic ring.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Delusion
+{: .no_toc }
 
 A character who drinks this potion believes they are under the effects of another type of potion.
 

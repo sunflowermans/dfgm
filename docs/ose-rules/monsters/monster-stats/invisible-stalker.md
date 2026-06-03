@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Invisible Stalker (Monster)
+{: .no_toc }
 
 Highly intelligent, magical creatures summoned from another plane of existence to perform tasks for powerful magic-users.
 

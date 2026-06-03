@@ -5,6 +5,7 @@ nav_order: 13
 ---
 
 # Sensory Powers of Sentient Swords
+{: .no_toc }
 
 Each sensory power should be rolled on the table below, with duplicates re-rolled.
 

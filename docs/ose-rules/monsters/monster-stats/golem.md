@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Golem
+{: .no_toc }
 
 Artificial beings constructed from different materials by mighty clerics or wizards.
 

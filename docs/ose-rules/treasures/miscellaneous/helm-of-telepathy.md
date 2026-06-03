@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Helm of Telepathy
+{: .no_toc }
 
 A beautifully crafted helmet that grants the magical ability of telepathy: reading and sending thoughts.
 

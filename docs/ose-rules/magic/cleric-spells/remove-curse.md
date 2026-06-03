@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Remove Curse (Curse) (C)
+{: .no_toc }
 
 *3rd Level Cleric Spell*
 

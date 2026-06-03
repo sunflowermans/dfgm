@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Halfling (Monster)
+{: .no_toc }
 
 Diminutive, furry-footed demihumans who dwell in small villages (30–300 inhabitants).
 

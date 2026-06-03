@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Time, Weight, Movement
+{: .no_toc }
 
 ## Tracking Time
 

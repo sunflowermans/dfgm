@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Efreeti (Lesser)
+{: .no_toc }
 
 Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Wishes
+{: .no_toc }
 
 Grants the wearer’s wishes (see [Wishes](/docs/ose-rules/treasures/magic-items-general/#wishes)).
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Lycanthrope
+{: .no_toc }
 
 Shapechangers with a human and an animal form.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Scorpion, Giant
+{: .no_toc }
 
 Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts.
 

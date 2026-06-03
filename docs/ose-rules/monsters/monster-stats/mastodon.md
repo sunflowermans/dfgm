@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Mastodon
+{: .no_toc }
 
 Shaggy elephants with large tusks. Live in icy or Lost World regions.
 

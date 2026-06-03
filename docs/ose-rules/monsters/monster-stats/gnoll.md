@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Gnoll
+{: .no_toc }
 
 Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. Legends say that gnolls were magically created by a wizard who crossbred gnomes and trolls.
 

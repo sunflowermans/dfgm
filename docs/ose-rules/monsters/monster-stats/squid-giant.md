@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Squid, Giant
+{: .no_toc }
 
 Giant, ten-armed cephalopods. Two of the ten arms are larger, and may be used to attack ships. Dwell in the depths of the sea, only surface to find prey.
 

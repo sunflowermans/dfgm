@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Neutralize Poison
+{: .no_toc }
 
 *4th Level Cleric Spell*
 

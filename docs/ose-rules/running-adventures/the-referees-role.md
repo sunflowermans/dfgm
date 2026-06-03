@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # The Referee’s Role
+{: .no_toc }
 
 ## Facilitator of Fun and Adventure
 

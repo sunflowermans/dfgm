@@ -5,6 +5,7 @@ nav_order: 10
 ---
 
 # Specialists
+{: .no_toc }
 
 PCs may wish to hire all types of characters for non-combat and non-adventuring purposes (i.e., not mercenaries or retainers) and are termed [specialists](/docs/ose-rules/equipment-and-services/specialists/).
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Speed
+{: .no_toc }
 
 The character’s movements and actions are magically accelerated.
 

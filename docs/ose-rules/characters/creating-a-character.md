@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Creating a Character
+{: .no_toc }
 
 To create a character, you’ll first need a character sheet—a sheet of paper on which to record all information about the new character.
 

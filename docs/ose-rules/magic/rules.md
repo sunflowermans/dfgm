@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Rules of Magic
+{: .no_toc }
 
 Some character classes can memorize and cast magical spells. A spell consists of a pattern of magical energy memorized in a character’s mind. When a spell is cast, the spell is erased from the character’s mind until it is memorized again.
 

@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Bless (Blight)
+{: .no_toc }
 
 *2nd Level Cleric Spell*
 

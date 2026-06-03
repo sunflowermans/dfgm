@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Control Weather
+{: .no_toc }
 
 *6th Level Magic-User Spell*
 

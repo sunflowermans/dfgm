@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Heroism
+{: .no_toc }
 
 Normal humans and characters of a combat-focused, non-magic-using class (e.g., dwarf, fighter, halfling who drinks a *potion of heroism*) temporarily gain additional levels. The number of levels gained depends on the character’s normal experience level:
 

@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Speak with Plants
+{: .no_toc }
 
 *4th Level Cleric Spell*
 

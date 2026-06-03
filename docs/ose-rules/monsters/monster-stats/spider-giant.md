@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Spider, Giant
+{: .no_toc }
 
 ## Black Widow
 

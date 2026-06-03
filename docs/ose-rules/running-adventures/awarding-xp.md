@@ -5,6 +5,7 @@ nav_order: 9
 ---
 
 # Awarding XP
+{: .no_toc }
 
 All characters who return from an adventure alive receive experience points (XP). XP is gained from two sources: treasure recovered and monsters defeated.
 

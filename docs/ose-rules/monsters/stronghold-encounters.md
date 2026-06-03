@@ -5,6 +5,7 @@ nav_order: 7
 ---
 
 # Stronghold Encounters
+{: .no_toc }
 
 When PCs wander into the vicinity of the wilderness stronghold of a high-level NPC, a warm reception is only sometimes guaranteed. These guidelines may be used if the referee does not have specific notes on a stronghold’s ruler and guard patrols.
 

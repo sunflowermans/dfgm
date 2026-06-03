@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Flying
+{: .no_toc }
 
 Grants the ability to fly through the air.
 

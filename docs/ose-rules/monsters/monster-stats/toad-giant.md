@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Toad, Giant
+{: .no_toc }
 
 Warty amphibians with long, sticky tongues. As large as a great hound, weighing 150 to 250 pounds.
 

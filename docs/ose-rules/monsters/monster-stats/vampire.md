@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Vampire
+{: .no_toc }
 
 Greatly feared undead monsters that live by drinking the blood of mortals. Dwell in ruins, tombs, and deserted locales.
 

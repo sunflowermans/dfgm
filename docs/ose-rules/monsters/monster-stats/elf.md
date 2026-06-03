@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Elf (Monster)
+{: .no_toc }
 
 Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings.
 

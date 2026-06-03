@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Spell Books
+{: .no_toc }
 
 Arcane spell casters record the spells that they know in a spell book.
 

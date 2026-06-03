@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Acolyte
+{: .no_toc }
 
 1st level clerics on a quest for their deity.
 

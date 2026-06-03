@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Octopus, Giant
+{: .no_toc }
 
 Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Bugbear
+{: .no_toc }
 
 Jump to:navigation, search
 

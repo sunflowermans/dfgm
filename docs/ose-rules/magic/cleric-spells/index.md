@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Cleric Spells
+{: .no_toc }

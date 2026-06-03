@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Shark
+{: .no_toc }
 
 Aggressive, predatory fish of low intelligence and unpredictable behavior. Live in saltwater.
 

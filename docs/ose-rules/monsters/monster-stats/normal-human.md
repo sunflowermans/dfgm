@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Normal Human
+{: .no_toc }
 
 Non-adventuring humans without a character class. Artists, beggars, children, craftspeople, farmers, fishermen, housewives, scholars, slaves.
 

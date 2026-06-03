@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Shrieker
+{: .no_toc }
 
 Giant, subterranean mushrooms that can creep around slowly.
 

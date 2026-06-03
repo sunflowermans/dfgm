@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Broom of Flying
+{: .no_toc }
 
 A broom that can be commanded to fly, carrying the owner aloft.
 

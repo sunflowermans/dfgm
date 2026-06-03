@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Efreeti Bottle
+{: .no_toc }
 
 A 3’ tall, weighty jug with a sealed stopper. Breaking the seal and removing the stopper releases a trapped efreeti (see [Efreeti](/docs/ose-rules/monsters/monster-stats/efreeti-lesser/)), who will serve the character.
 

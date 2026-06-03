@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Crocodile
+{: .no_toc }
 
 Large reptiles that are ungainly on land and live primarily in water, lurking just beneath the surface of subtropical swamps and lazy rivers. If hungry, attack any creatures that venture into the water.
 

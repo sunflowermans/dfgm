@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Tyrannosaurus Rex
+{: .no_toc }
 
 Great (over 20’ tall), two-legged, predatory dinosaurs with huge jaws. Hunt human-sized or larger prey. Dwell in Lost World regions.
 

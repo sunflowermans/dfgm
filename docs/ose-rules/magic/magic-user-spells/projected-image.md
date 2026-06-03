@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Projected Image
+{: .no_toc }
 
 *6th Level Magic-User Spell*
 

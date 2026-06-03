@@ -5,6 +5,7 @@ nav_order: 11
 ---
 
 # Other Combat Issues
+{: .no_toc }
 
 ## Attacking from Behind
 

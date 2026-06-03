@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Insect Swarm
+{: .no_toc }
 
 Swarms of many tiny insects may be encountered, protecting their nest. May also be drawn to light or unusual smells.
 

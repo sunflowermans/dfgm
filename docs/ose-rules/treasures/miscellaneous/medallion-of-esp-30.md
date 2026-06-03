@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Medallion of ESP 30’
+{: .no_toc }
 
 A medallion on a chain, enchanted with the power of reading thoughts.
 

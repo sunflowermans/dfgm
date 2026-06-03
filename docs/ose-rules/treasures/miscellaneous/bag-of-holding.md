@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Bag of Holding
+{: .no_toc }
 
 A normal-looking, small sack that can magically contain large objects and weights.
 

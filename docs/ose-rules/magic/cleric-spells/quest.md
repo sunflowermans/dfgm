@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Quest (Remove Quest)
+{: .no_toc }
 
 *5th Level Cleric Spell*
 

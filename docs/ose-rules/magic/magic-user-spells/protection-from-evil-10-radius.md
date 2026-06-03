@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Protection from Evil 10’ Radius (MU)
+{: .no_toc }
 
 *3rd Level Magic-User Spell*
 

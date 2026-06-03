@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Cloudkill
+{: .no_toc }
 
 *5th Level Magic-User Spell*
 

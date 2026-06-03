@@ -5,6 +5,7 @@ nav_order: 11
 ---
 
 # Strongholds
+{: .no_toc }
 
 # Construction
 

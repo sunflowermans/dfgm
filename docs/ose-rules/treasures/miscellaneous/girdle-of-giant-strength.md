@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Girdle of Giant Strength
+{: .no_toc }
 
 A character who wears this girdle gains the strength of a hill giant.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Brigand
+{: .no_toc }
 
 Outlaws and mercenaries who make a living by raiding settlements and attacking travellers.
 

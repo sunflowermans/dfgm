@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Flying Carpet
+{: .no_toc }
 
 An enchanted carpet that can fly through the air, carrying up to three passengers (and their gear). The movement rate depends on the number of passengers:
 

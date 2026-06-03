@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Medusa
+{: .no_toc }
 
 Deadly creatures of a magical nature that look like women with writhing snakes in place of hair.
 

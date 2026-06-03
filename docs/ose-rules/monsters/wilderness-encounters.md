@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Wilderness Encounters
+{: .no_toc }
 
 This section provides encounter tables by terrain type. Referees who are using additional (or alternative) monsters should either adapt the tables to include these or create their encounter tables.
 

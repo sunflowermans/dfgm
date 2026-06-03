@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Protection from Evil 10’ Radius (C)
+{: .no_toc }
 
 *4th Level Cleric Spell*
 

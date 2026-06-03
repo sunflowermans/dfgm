@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Herd Animal
+{: .no_toc }
 
 Wild animals that live in large, grazing herds. The exact type depends on the terrain.
 

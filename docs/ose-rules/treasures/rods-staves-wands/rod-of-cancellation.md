@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Rod of Cancellation
+{: .no_toc }
 
 Drains the enchantment from a magic item that is touched.
 

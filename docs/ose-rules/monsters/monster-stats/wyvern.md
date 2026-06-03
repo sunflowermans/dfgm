@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wyvern
+{: .no_toc }
 
 Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous stinger. Dwell in any terrain, but favor cliffs and forests.
 

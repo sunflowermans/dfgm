@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Gems and Jewellery
+{: .no_toc }
 
 ## Gems
 

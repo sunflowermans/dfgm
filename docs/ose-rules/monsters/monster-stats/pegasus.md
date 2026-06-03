@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Pegasus
+{: .no_toc }
 
 Semi-intelligent winged horses that are wilful and timid.
 

@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Contact Higher Plane
+{: .no_toc }
 
 *5th Level Magic-User Spell*
 

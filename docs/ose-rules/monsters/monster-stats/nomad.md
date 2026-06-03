@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Nomad
+{: .no_toc }
 
 Superstitious tribes who wander steppes and desert regions, living in tents or temporary huts. Demeanor depends on the tribe: some are warlike, others peaceful.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Invisibility
+{: .no_toc }
 
 The wearer of this ring becomes invisible.
 

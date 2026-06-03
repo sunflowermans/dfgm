@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Continual Light (Continual Darkness) (MU)
+{: .no_toc }
 
 *2nd Level Magic-User Spell*
 

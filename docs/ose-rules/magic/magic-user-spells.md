@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Magic-User Spells
+{: .no_toc }
 
 If a spell can be reversed (see [Spells](/docs/ose-rules/magic/rules/#spells-and-deity-alignment)), the name of the reversed version is noted in parentheses.
 

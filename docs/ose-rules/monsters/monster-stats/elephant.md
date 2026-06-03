@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Elephant
+{: .no_toc }
 
 Massive, tusked animals that dwell near subtropical forests. Wandering individuals or whole herds may be encountered.
 

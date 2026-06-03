@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Weasel, Giant
+{: .no_toc }
 
 8’ to 9’ long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups.
 

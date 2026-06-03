@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Grey Ooze
+{: .no_toc }
 
 Slimy horrors that lurk on stone surfaces or among boulders.
 

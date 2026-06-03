@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Goblin
+{: .no_toc }
 
 Small, grotesque humanoids with pallid, earth-colored skin and glowing, red eyes. Dwell underground.
 

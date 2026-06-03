@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Locate Object (MU)
+{: .no_toc }
 
 *2nd Level Magic-User Spell*
 

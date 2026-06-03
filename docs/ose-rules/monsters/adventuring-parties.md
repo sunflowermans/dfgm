@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Adventuring Parties
+{: .no_toc }
 
 This procedure generates parties of NPC adventurers. As the process is fairly involved, referees may wish to pre-generate some NPC parties for use in random encounters. The following general details apply to all types of NPC parties described:
 

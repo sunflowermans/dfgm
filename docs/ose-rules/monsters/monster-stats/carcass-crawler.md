@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Carcass Crawler
+{: .no_toc }
 
 9’ long, 3’ high, many-legged, segmented worms with a ring of 2’ long tentacles around their mouths.
 

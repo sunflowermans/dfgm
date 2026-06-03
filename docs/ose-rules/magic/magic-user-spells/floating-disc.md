@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Floating Disc
+{: .no_toc }
 
 *1st Level Magic-User Spell*
 

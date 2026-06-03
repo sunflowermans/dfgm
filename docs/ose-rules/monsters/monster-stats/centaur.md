@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Centaur
+{: .no_toc }
 
 Fantastic creatures with the legs and body of a horse, and the upper body and head of a human. Live in small family or tribal groups, in wild meadows and isolated forests.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wolf
+{: .no_toc }
 
 Carnivorous relatives of dogs that hunt in packs.
 

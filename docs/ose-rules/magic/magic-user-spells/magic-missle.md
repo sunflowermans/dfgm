@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Magic Missile
+{: .no_toc }
 
 *1st Level Magic-User Spell*
 

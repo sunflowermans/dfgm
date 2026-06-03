@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Staff of Wizardry
+{: .no_toc }
 
 An item of supreme wizardly power, this staff may be used as a weapon in melee, and may evoke a dozen different magical effects.
 

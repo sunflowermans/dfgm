@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Dwarf (Monster)
+{: .no_toc }
 
 Short, stocky, bearded demihumans who dwell in mountains and subterranean realms.
 

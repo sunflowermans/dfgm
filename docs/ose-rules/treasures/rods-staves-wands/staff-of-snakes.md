@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Staff of Snakes
+{: .no_toc }
 
 A magical staff that can transform into a snake on command.
 

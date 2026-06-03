@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Healing
+{: .no_toc }
 
 Has one of two effects on the character who drinks it:
 

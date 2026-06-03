@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Rope of Climbing
+{: .no_toc }
 
 A coil of thin, strong rope, 50’ in length.
 

@@ -5,6 +5,7 @@ nav_order: 7
 ---
 
 # Water Vessels
+{: .no_toc }
 
 ## Vessel Dimensions
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Invisibility
+{: .no_toc }
 
 Drinking this potion, the character becomes invisible. This works the same as the magic-user spell invisibility. The standard potion duration applies.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Hellhound
+{: .no_toc }
 
 Monstrous, cunning, and very intelligent hounds, the size of a small pony. Breathe fire and love heat. Dwell in dungeons or near volcanoes.
 

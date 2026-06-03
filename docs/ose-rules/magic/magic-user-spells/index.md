@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Magic-User Spells
+{: .no_toc }

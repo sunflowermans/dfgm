@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Mirror of Life Trapping
+{: .no_toc }
 
 A mirror with the ability to magically trap living creatures behind its pane.
 

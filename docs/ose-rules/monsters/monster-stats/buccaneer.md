@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Buccaneer
+{: .no_toc }
 
 Sailors who make a living by raiding coastal settlements and robbing other ships. Typically ply rivers, lakes, and coastal waters; occasionally oceans.
 

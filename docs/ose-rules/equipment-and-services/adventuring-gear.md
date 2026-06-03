@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Adventuring Gear
+{: .no_toc }
 
 | Item                       | Cost (gp) |
 | :------------------------- | :-------: |

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Djinni Summoning
+{: .no_toc }
 
 This ring grants the power to summon a djinni (see [Djinni](/docs/ose-rules/monsters/monster-stats/djinni-lesser/)).
 

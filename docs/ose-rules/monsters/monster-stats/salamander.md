@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Salamander
+{: .no_toc }
 
 Giant, magical reptiles with an affinity for extreme heat or cold.
 

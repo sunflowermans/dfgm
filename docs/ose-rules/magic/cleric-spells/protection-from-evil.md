@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Protection from Evil (C)
+{: .no_toc }
 
 *1st Level Cleric Spell*
 

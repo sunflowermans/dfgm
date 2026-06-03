@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Magic
+{: .no_toc }

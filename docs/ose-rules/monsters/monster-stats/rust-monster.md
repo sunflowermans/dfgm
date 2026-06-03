@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Rust Monster
+{: .no_toc }
 
 Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feed on rusted metal.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Helm of Teleportation
+{: .no_toc }
 
 A magical helm that gives an arcane spell caster the ability to cast the *teleport* spell.
 

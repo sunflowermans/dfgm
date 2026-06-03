@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Merchant
+{: .no_toc }
 
 Organized traders who travel between settlements in well-armed caravans, buying and selling trade goods (e.g., gold, jewels, silk, spices, wine, etc.).
 

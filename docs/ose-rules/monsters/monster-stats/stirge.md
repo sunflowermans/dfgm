@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Stirge
+{: .no_toc }
 
 Feathered, bird-like creatures with long, sharp beaks.
 

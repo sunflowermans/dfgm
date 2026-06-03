@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ogre
+{: .no_toc }
 
 Frightful humanoids, 8–10’ tall, dressed in animal hides. Often dwell in caves.
 

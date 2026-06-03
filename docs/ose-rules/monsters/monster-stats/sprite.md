@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Sprite
+{: .no_toc }
 
 1’ tall, winged humanoids related to pixies and elves. They are shy but driven by curiosity and their odd sense of humor.
 

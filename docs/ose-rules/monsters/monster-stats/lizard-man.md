@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Lizard Man
+{: .no_toc }
 
 Semi-intelligent, tribal, aquatic humanoids with reptilian heads and tails. Often encountered in swamps and dungeons, or along rivers and coastlines.
 

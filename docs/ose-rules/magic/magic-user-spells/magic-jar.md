@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Magic Jar
+{: .no_toc }
 
 *5th Level Magic-User Spell*
 

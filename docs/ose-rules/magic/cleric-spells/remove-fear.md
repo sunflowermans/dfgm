@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Remove Fear (Cause Fear)
+{: .no_toc }
 
 *1st Level Cleric Spell*
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Staff of Power
+{: .no_toc }
 
 An item of great wizardly power, this staff may be used as a weapon in melee, and may evoke five different magical effects.
 

@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Invisibility 10’ Radius
+{: .no_toc }
 
 *3rd Level Magic-User Spell*
 

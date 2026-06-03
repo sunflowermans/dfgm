@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Shrew, Giant
+{: .no_toc }
 
 Brown-furred, mole-like insectivores with long snouts. Dwell underground; skilled burrowers.
 

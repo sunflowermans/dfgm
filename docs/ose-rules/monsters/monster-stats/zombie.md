@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Zombie
+{: .no_toc }
 
 Listless, humanoid corpses, reanimated as guardians by powerful clerics or wizards.
 

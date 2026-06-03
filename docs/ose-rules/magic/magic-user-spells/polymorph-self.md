@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Polymorph Self
+{: .no_toc }
 
 *4th Level Magic-User Spell*
 

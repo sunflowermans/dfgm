@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Bat
+{: .no_toc }
 
 Nocturnal, flying mammals that roost in caves or ruins.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Mummy
+{: .no_toc }
 
 Undead humanoids wrapped in funerary bandages. Haunt ruins and tombs.
 

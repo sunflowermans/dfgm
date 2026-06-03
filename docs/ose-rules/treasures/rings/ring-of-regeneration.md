@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Regeneration
+{: .no_toc }
 
 The wearer heals at an accelerated rate.
 

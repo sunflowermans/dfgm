@@ -5,6 +5,7 @@ nav_order: 13
 ---
 
 # Special Purpose of Sentient Swords
+{: .no_toc }
 
 Some sentient swords are also imbued with a special purpose. The purpose of such swords is typically to slay a certain type of character or creature. The purpose may be rolled on the table below, or the referee may invent others.
 

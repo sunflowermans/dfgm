@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Rods, Staves, Wands
+{: .no_toc }

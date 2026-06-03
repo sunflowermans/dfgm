@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ape, White
+{: .no_toc }
 
 Albino, herbivorous, gorilla-like apes that live in caves and emerge at night to forage.
 

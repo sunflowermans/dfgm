@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Triceratops
+{: .no_toc }
 
 Massive (12’ to the shoulder, almost 40’ long), aggressive, herbivorous dinosaurs with a protective crest behind the head, and three long horns. Dwell in Lost World grasslands.
 

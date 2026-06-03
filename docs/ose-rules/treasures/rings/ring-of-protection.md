@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Protection
+{: .no_toc }
 
 Grants a measure of protection from harm:
 

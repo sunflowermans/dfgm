@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Bandit
+{: .no_toc }
 
 NPC thieves who live by robbery.
 

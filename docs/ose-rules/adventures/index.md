@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Adventures
+{: .no_toc }

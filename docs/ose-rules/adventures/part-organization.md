@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Party Organisation
+{: .no_toc }
 
 **Size:** The ideal group size is between 6 and 8 characters—large enough to confront the challenges of the adventure while not so large as to be disorganized. If not enough PCs are present, the players may wish to hire retainers (see [Retainers](/docs/ose-rules/equipment-and-services/retainers/)).
 

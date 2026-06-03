@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Wealth
+{: .no_toc }
 
 Successful characters accumulate wealth from the spoils of their adventures. Treasure may take many forms, but money is often the most helpful form of treasure.
 

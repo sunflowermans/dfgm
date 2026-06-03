@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Killer Bee
+{: .no_toc }
 
 Giant (1’ long) bees of aggressive temperament. Build hives underground.
 

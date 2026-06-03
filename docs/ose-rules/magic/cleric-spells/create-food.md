@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Create Food
+{: .no_toc }
 
 *5th Level Cleric Spell*
 

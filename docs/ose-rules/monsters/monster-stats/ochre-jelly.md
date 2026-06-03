@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ochre Jelly
+{: .no_toc }
 
 Giant, ochre amoeboids.
 

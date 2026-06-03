@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Negation
+{: .no_toc }
 
 Has the power to negate the effects of other wands or staves.
 

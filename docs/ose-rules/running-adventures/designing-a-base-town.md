@@ -5,6 +5,7 @@ nav_order: 8
 ---
 
 # Designing a Base Town
+{: .no_toc }
 
 ## 1. Determine Size
 

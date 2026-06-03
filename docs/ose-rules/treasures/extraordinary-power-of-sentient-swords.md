@@ -5,6 +5,7 @@ nav_order: 14
 ---
 
 # Extraordinary Powers of Sentient Swords
+{: .no_toc }
 
 Each power should be rolled on the table below. Duplicates should be re-rolled, unless noted.
 

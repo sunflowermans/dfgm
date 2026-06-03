@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Metal Detection
+{: .no_toc }
 
 Grants the power to detect masses of metal of any type.
 

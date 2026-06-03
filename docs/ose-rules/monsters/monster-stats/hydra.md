@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Hydra
+{: .no_toc }
 
 Large, dragon-like creatures with multiple serpentine heads. Sea hydras (adapted to water, with fins) also exist.
 

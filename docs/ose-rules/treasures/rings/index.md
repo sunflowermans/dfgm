@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Rings
+{: .no_toc }

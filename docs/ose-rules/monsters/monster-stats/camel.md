@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Camel
+{: .no_toc }
 
 Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts.
 

@@ -5,6 +5,7 @@ nav_order: 8
 ---
 
 # Retainers
+{: .no_toc }
 
 Retainers are NPCs hired to accompany a character on adventures.
 

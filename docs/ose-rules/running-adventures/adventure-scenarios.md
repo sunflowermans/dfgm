@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Adventure Scenarios
+{: .no_toc }
 
 The first step in designing an adventure of any kind is to decide on the type of scenario. This hook draws the player characters to the adventure site and provides a background theme for the referee to tie the location together. The scenario drives the referee’s choices of specific traps, treasures, and monsters to be placed in the area. The following examples may be used for inspiration.
 

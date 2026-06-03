@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Game Statistics
+{: .no_toc }
 
 Player characters are described, in game terms, by a set of statistics that define their abilities, strengths, and weaknesses in the game world.
 

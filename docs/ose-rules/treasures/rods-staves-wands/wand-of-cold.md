@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Cold
+{: .no_toc }
 
 Conjures a cone of freezing energy.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Growth
+{: .no_toc }
 
 The character doubles in size.
 

@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Handling PCs
+{: .no_toc }
 
 ## Rate of Advancement
 

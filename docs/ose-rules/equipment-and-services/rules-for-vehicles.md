@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Rules for Vehicles
+{: .no_toc }
 
 ## Game Statistics
 

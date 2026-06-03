@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Hold Monster
+{: .no_toc }
 
 *5th Level Magic-User Spell*
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Hobgoblin
+{: .no_toc }
 
 Larger and nastier relatives of goblins. Dwell underground but commonly seek prey above ground.
 

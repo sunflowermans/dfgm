@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Running the Game
+{: .no_toc }
 
 ## Describing the Unknown
 

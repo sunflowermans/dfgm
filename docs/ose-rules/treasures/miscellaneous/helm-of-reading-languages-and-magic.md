@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Helm of Reading Languages and Magic
+{: .no_toc }
 
 A fragile helmet that grants the wearer the ability to read writing of all kinds.
 

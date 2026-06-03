@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Green Slime
+{: .no_toc }
 
 Dripping, green slime that clings to walls and ceilings.
 

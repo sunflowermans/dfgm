@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Yellow Mould
+{: .no_toc }
 
 Deadly fungus that covers walls, ceilings, and other surfaces.
 

@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Placing Treasure
+{: .no_toc }
 
 There are two methods of deciding what treasure is in the possession of monsters: rolling randomly and referee choice.
 

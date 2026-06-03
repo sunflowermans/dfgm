@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Thoul
+{: .no_toc }
 
 Magical monstrosities that look like hobgoblins (except on close inspection) but combine the powers of ghouls and trolls. Sometimes, they live among hobgoblins.
 

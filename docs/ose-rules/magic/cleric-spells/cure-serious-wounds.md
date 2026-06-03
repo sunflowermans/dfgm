@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Cure Serious Wounds (Cause Serious Wounds)
+{: .no_toc }
 
 *4th Level Cleric Spell*
 

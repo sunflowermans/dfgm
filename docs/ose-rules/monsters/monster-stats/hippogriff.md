@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Hippogriff
+{: .no_toc }
 
 They are fantastic creatures, combining the features of a giant eagle (head and forequarters) and a horse. Nest among craggy rocks.
 

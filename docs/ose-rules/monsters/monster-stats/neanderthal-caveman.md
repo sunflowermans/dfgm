@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Neanderthal (Caveman)
+{: .no_toc }
 
 Squat, powerful, primitive demihumans with ape-like faces. Dwell in caverns and hunt cave bears. Shy of contact with humans (with whom they are related), but friendly with dwarves and gnomes.
 

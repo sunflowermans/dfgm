@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Titanothere
+{: .no_toc }
 
 Giant (12’ at the shoulder), ancient relatives of the rhinoceros, with massive, blunt horns. Eat grass and tree leaves. Dwell in small herds in Lost World grasslands.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Giant
+{: .no_toc }
 
 ## Cloud Giant
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Dervish
+{: .no_toc }
 
 Fanatically religious, nomadic people who wander steppes and desert regions, living in tents.
 

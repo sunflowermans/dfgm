@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Pterosaur
+{: .no_toc }
 
 Predatory, winged reptiles that live in warm climates, hunting creatures on the ground by gliding on air currents. Often found in Lost World regions.
 

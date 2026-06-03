@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Dungeon Encounters
+{: .no_toc }
 
 This section provides encounter tables by dungeon level. Referees using additional (or alternative) monsters should adapt the tables to include these or create their own encounter tables. Special tables may also reflect the different balance of monsters inhabiting a specific dungeon.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Rhagodessa
+{: .no_toc }
 
 Huge, hairy, nocturnal arachnid carnivores with large heads and mandibles and 10 legs. Yellow head and abdomen, dark brown thorax. Dwell in caves, hunt voraciously.
 

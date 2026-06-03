@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wraith
+{: .no_toc }
 
 Incorporeal, undead monsters that appear as pale, human-like forms of coalescing mist. Dwell in deserted regions or in the homes of former victims.
 

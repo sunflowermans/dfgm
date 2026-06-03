@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Treasure Finding
+{: .no_toc }
 
 Grants the ability to sense treasure.
 

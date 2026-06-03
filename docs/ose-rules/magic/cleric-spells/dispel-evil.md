@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Dispel Evil
+{: .no_toc }
 
 *5th Level Cleric Spell*
 

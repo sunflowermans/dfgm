@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Bear
+{: .no_toc }
 
 - **Bear hug:** If a victim is hit by both paws in the same round, the bear hugs for an extra 2d8 automatic damage.
 

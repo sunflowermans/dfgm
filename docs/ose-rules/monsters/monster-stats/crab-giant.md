@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Crab, Giant
+{: .no_toc }
 
 Unintelligent crustaceans that lurk in coastal waters and creep along beaches. Cannot swim.
 

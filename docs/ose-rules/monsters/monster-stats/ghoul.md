@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ghoul
+{: .no_toc }
 
 Grotesque, animalistic, undead humans that crave the flesh of the living.
 

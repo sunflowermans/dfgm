@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Sleep
+{: .no_toc }
 
 *1st Level Magic-User Spell*
 

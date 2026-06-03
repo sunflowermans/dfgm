@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Gauntlets of Ogre Power
+{: .no_toc }
 
 A character who wears these gauntlets has a Strength score of 18. This grants all the usual bonuses, including:
 

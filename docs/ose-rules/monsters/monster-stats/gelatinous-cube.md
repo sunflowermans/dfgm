@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Gelatinous Cube
+{: .no_toc }
 
 10’ cubes of transparent jelly. Move through dungeons, absorbing debris and living creatures they come across.
 

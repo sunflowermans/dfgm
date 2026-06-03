@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Gnome
+{: .no_toc }
 
 Short demihumans with long noses and beards. Smaller cousins of dwarves, whom they get along with. Prefer to live in burrows in a non-mountainous country.
 

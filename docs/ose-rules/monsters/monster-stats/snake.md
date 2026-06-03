@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Snake
+{: .no_toc }
 
 Jump to:navigation, search
 

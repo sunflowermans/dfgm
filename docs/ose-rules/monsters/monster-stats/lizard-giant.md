@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Lizard, Giant
+{: .no_toc }
 
 ## Draco
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Rhinoceros
+{: .no_toc }
 
 Dim, armored, herbivorous mammals.
 

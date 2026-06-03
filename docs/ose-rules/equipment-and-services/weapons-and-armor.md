@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Weapons And Armor
+{: .no_toc }
 
 ## Weapons
 

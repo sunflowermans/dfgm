@@ -5,6 +5,7 @@ nav_order: 7
 ---
 
 # Waterborne Adventuring
+{: .no_toc }
 
 ## Sequence of Play Per Day
 

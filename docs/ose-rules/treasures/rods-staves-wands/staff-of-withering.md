@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Staff of Withering
+{: .no_toc }
 
 Creatures hit by the staff are magically aged:
 

@@ -5,6 +5,7 @@ nav_order: 13
 ---
 
 # Combat Tables
+{: .no_toc }
 
 These tables list the attack probabilities for all monsters and characters and the saving throw values used by monsters and normal humans.
 

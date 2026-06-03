@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Weakness
+{: .no_toc }
 
 A cursed ring that weakens the wearer.
 

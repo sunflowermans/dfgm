@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Light (Darkness) (C)
+{: .no_toc }
 
 *1st Level Cleric Spell*
 

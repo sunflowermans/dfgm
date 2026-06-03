@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Rock Baboon
+{: .no_toc }
 
 Large, ferocious, semi-intelligent baboons that live in packs led by a powerful male. Communicate with screams. Omnivorous, but prefer flesh.
 

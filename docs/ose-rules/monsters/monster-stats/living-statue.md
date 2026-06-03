@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Living Statue
+{: .no_toc }
 
 Animated statues of any size and material (three types described below; others may be invented by the referee.
 

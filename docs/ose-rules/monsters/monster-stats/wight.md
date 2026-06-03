@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wight
+{: .no_toc }
 
 Corpses of humans or demihumans, possessed by malevolent spirits.
 

@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Potions
+{: .no_toc }

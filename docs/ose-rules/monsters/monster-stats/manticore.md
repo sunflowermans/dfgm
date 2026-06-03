@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Manticore
+{: .no_toc }
 
 Monstrosities with the face of a man, the body of a lion, bat-like wings, and a tail bristling with spikes. Love eating humans. Dwell in wild, mountainous regions.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Doppelgänger
+{: .no_toc }
 
 Intelligent, human-sized shape-shifters of wicked character and highly magical nature.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Boar
+{: .no_toc }
 
 Omnivorous wild boars that dwell primarily in forests. Can be irascible and dangerous, if disturbed.
 

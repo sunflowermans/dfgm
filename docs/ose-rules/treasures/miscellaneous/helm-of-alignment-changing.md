@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Helm of Alignment Changing
+{: .no_toc }
 
 A beautifully crafted but cursed helmet.
 

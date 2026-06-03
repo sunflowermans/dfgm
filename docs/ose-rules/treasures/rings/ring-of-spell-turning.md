@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Spell Turning
+{: .no_toc }
 
 Spells cast on the wearer of this ring are reflected onto the caster.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Warp Beast
+{: .no_toc }
 
 Large, black, six-legged, semi-intelligent monsters. Look similar to panthers, with a tentacle growing from each front shoulder. Tentacles are ridged with razor-sharp edges.
 

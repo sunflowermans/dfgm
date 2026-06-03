@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Telekinesis
+{: .no_toc }
 
 Grants the power to move objects or creatures within 120’ by concentrating.
 

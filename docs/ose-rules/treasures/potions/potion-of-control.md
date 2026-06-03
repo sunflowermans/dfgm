@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Control
+{: .no_toc }
 
 A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.
 

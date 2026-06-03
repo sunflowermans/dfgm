@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Growth of Animal
+{: .no_toc }
 
 *3rd Level Cleric Spell*
 

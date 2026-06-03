@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Horn of Blasting
+{: .no_toc }
 
 A horn that can be blown to release a blast of destructive noise.
 

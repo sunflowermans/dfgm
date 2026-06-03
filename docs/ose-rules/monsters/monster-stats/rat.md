@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Rat
+{: .no_toc }
 
 Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans but may attack if defending their nest or if summoned and commanded by magic (e.g., see Wererat.
 

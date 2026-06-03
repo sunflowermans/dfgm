@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Ability Checks
+{: .no_toc }
 
 The referee may use a character’s ability scores to determine the character’s chance of succeeding at various challenging tasks.
 

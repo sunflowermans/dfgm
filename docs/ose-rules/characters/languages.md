@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Languages
+{: .no_toc }
 
 The native languages spoken by a player character are determined by the character’s class. These typically include the common tongue and an alignment language. Characters with high INT may learn additional languages (see [Ability Scores](/docs/ose-rules/characters/ability-scores/)).
 

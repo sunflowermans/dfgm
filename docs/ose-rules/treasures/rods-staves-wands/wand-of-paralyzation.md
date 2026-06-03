@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Paralyzation
+{: .no_toc }
 
 Conjures a cone of paralyzing energy.
 

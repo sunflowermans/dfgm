@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # General
+{: .no_toc }
 
 # Game Statistics
 

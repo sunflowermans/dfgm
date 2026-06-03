@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Hazards and Challenges
+{: .no_toc }
 
 ## Climbing
 

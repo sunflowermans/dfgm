@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Skeleton
+{: .no_toc }
 
 Skeletal remains of humanoids reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Dragon Turtle
+{: .no_toc }
 
 Gargantuan sea monsters with the body and hard shell of a turtle and the head, tail, and legs of a dragon. Lurk in huge caves in the depths of the ocean, only rarely coming to the surface.
 

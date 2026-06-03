@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Giant Strength
+{: .no_toc }
 
 Grants the strength of a frost giant.
 

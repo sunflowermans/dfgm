@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Miscellaneous
+{: .no_toc }

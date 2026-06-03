@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Equipment & Services
+{: .no_toc }

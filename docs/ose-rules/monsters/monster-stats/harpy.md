@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Harpy
+{: .no_toc }
 
 Hideous hags with the wings and lower bodies of giant eagles. Use their song to lure victims to their doom.
 

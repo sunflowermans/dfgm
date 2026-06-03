@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Orc
+{: .no_toc }
 
 Ugly, bad-tempered, animalistic humanoids who live underground and are active at night. Sadistic bullies who hate other living creatures and delight in killing.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Cave Locust
+{: .no_toc }
 
 2–3’ long, herbivorous, giant crickets that dwell in caverns.
 

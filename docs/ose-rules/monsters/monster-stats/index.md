@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Monster Stats
+{: .no_toc }

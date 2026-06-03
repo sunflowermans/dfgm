@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Alignment
+{: .no_toc }
 
 Alignments are cosmic principles that represent broad worldviews. All beings are categorized under three alignments: Law, Neutrality, or Chaos.
 

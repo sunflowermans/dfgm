@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Drums of Panic
+{: .no_toc }
 
 Large war drums which induce panic in those who hear their sound.
 

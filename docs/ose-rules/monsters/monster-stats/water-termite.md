@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Water Termite
+{: .no_toc }
 
 Giant (1’–5’ long), wood-eating, aquatic insects with a sack to take in and jet out water. Prone to feeding on passing ships. Only attack creatures if cornered.
 

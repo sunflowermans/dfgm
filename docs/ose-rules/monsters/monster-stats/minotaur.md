@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Minotaur
+{: .no_toc }
 
 Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes and labyrinths.
 

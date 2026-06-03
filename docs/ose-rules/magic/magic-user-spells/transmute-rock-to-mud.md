@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Transmute Rock to Mud (Mud to Rock)
+{: .no_toc }
 
 *5th Level Magic-User Spell*
 

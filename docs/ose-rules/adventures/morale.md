@@ -5,6 +5,7 @@ nav_order: 12
 ---
 
 # Morale (Optional Rule)
+{: .no_toc }
 
 The referee decides whether monsters or NPCs surrender or run away in combat. The following system may be utilized.
 

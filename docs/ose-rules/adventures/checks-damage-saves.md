@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Checks, Damage, Saves
+{: .no_toc }
 
 ## Ability Checks
 

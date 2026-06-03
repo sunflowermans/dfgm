@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Controlling Plants
+{: .no_toc }
 
 Grants the power to control plants.
 

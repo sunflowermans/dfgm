@@ -1,10 +1,11 @@
 ---
-title: Miscellaneous Items
+title: Miscellaneous
 parent: Treasures
 nav_order: 6
 ---
 
 # Miscellaneous Items
+{: .no_toc }
 
 | B: d10 | X: d% | Item                                                         |
 | :----: | :---: | :----------------------------------------------------------- |

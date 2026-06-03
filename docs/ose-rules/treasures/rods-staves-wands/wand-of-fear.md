@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Wand of Fear
+{: .no_toc }
 
 Conjures a cone of magical energy that terrifies those within it.
 

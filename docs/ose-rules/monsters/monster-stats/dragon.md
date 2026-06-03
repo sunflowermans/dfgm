@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Dragon
+{: .no_toc }
 
 A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragons, many of which are distinguished by the color of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilization.
 

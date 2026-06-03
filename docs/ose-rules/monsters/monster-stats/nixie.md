@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Nixie
+{: .no_toc }
 
 3’ tall sprites that appear as attractive women with blueish, greenish, or greyish skin. Lair in the deepest parts of rivers and lakes.
 

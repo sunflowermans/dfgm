@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Spell Storing
+{: .no_toc }
 
 Stores a number of magical spells that the wearer can release on command.
 

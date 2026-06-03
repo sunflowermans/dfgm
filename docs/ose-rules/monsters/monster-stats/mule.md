@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Mule
+{: .no_toc }
 
 Stubborn horse/donkey cross-breeds used as beasts of burden.
 

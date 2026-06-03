@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Displacer Cloak
+{: .no_toc }
 
 A cloak that bends light makes one who wears it appear 5’ away from their true location.
 

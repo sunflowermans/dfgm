@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Designing a Dungeon
+{: .no_toc }
 
 ## 1. Choose the Setting
 

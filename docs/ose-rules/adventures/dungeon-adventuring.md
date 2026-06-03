@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Dungeon Adventuring
+{: .no_toc }
 
 ## Sequence of Play Per Turn
 

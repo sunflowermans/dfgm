@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Raise Dead (Finger of Death)
+{: .no_toc }
 
 *5th Level Cleric Spell*
 

@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Death Spell
+{: .no_toc }
 
 *6th Level Magic-User Spell*
 

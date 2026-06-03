@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Cure Light Wounds (Cause Light Wounds)
+{: .no_toc }
 
 *1st Level Cleric Spell*
 

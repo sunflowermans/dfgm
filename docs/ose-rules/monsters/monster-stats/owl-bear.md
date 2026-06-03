@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Owl Bear
+{: .no_toc }
 
 Huge (8’ tall, 1,500 pounds), ill-tempered, carnivorous bear-like creature with the face of an owl. Owl bears are found in dense forests and underground.
 

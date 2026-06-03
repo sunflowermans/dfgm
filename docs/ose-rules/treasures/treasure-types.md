@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Treasure Types
+{: .no_toc }
 
 ## Rolling Treasure
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Griffon
+{: .no_toc }
 
 Large, rapacious predators combine the features of an eagle (head, wings, front claws) and a lion. Prey on horses.
 

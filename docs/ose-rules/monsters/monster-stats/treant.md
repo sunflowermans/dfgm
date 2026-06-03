@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Treant
+{: .no_toc }
 
 Giant (18’ tall) humanoids that look like trees. Dwell in forests. Are concerned only with protecting the plants of their home. Speak their own long-winded and circuitous language.
 

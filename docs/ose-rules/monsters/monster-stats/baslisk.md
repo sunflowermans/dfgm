@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Basilisk
+{: .no_toc }
 
 10’ long, serpentine lizards. Unintelligent, but highly magical. Dwell in caverns and twisted brambles.
 

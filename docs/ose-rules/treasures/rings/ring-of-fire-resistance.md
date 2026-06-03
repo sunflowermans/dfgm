@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Ring of Fire Resistance
+{: .no_toc }
 
 Grants the wearer protection against fire.
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Staff of Commanding
+{: .no_toc }
 
 Grants the power to control animals, humans, and plants.
 

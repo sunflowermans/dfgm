@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Staff of Striking
+{: .no_toc }
 
 Used as a magical melee weapon.
 

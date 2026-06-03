@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Beetle, Giant
+{: .no_toc }
 
 ## Fire Beetle
 

@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Potion of Levitation
+{: .no_toc }
 
 The character gains the ability to move up and down through the air at will.
 

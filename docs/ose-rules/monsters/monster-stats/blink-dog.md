@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 # Blink Dog
+{: .no_toc }
 
 Highly intelligent, dingo-like dogs that live in packs. Have the innate ability to blink in and out of existence.
 
