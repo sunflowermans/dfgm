@@ -23,13 +23,13 @@ Requires *Old-School Essentials* to play.
 
 Version 3.2  
 
-Written by **directsun** 
+Written by **[directsun](https://puzzledungeon.com/)** 
 
-Cover art by **Jacob Fleming**  
+Cover art by [**Jacob Fleming**](https://gelatinouscubism.bigcartel.com/)
 
-Interior art by **Munkao** 
+Interior art by **[Munkao](https://heycentaur.com/)** 
 
-Floating eyeball art by **Alec Sorensen** 
+Floating eyeball art by [**Alec Sorensen**](https://www.instagram.com/oddsbod/)
 
 Layout by [**Jesse Winter**](https://duostorytelling.com/slimemind/) 
 
@@ -39,9 +39,9 @@ Line and copy editing by [**Yossi Krausz**](https://yossikrausz.com/)
 
 *Playtesters*: CowardlyB, Justin Hamilton, Nick McClure, Laura Boucher, Lydia Snapp  
 
-*Old-School Essentials* is a trademark of Necrotic Gnome. The trademark and *Old- School Essentials* logo are used with permission of Necrotic Gnome, under license. 
+*Old-School Essentials* is a trademark of Necrotic Gnome. The trademark and *Old-School Essentials* logo are used with permission of Necrotic Gnome, under license. 
 
-*Inspirational works*: Sufficiently Advanced Magic by Andrew Rowe, Tears of the Crocodile God by Will Doyle, The Legend of Zelda: Ocarina of Time, d100 minor magical items by Goblin Punch  
+*Inspirational works*: Sufficiently Advanced Magic by Andrew Rowe, Tears of the Crocodile God by Will Doyle, The Legend of Zelda: Ocarina of Time, [d100 minor magical items by Goblin Punch](https://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html)  
 
 **More resources and downloads available at [PuzzleDungeon.com](https://puzzledungeon.com)**
 
@@ -113,6 +113,8 @@ The gears that control the iron door of this room are broken. The door slides up
 
 ## 2. Pool
 
+<a href="../../assets/images/handouts/2_pool.png" target="_blank"><img src="../../assets/images/handouts/2_pool.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+
 ***The middle of the room is a scum-filled pool. It runs from wall to wall, with its liquid resting just a foot below the rim.*** The water is 50’ feet deep and too cloudy to see through.  
 
 ***On the south side of the pool, a pair of 3’ toggle levers jut from the floor, set opposite one another—one pointing north, the other south.*** Flipping the lever that’s pointed north opens or closes all the iron doors in this chamber except the damaged door to [*Fetid Fountain* (1)](#1-fetid-fountain). Flipping the lever that’s pointed south drains the pool over 10 minutes; flipping it again refills the pool in the same amount of time.
@@ -120,6 +122,8 @@ The gears that control the iron door of this room are broken. The door slides up
 A [Jelly Cube](#jelly-cube) is jammed within the mechanism that controls the pool’s water level. When the pool is emptied and refilled, the jelly is forced through the pipes that feed the chamber and reforms to its natural 10-foot cube shape, a [Jaunt Lens](#jaunt-lens) suspended within its transparent mass. Its bulk displaces the water enough to make the pool overflow by about an inch.
 
 {: .item #jaunt-lens}
+> <a href="../../assets/images/handouts/jaunt lens horiz.png" target="_blank"><img src="../../assets/images/handouts/jaunt lens horiz.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+> 
 > **Jaunt Lens**
 >
 > 4” loop of bronze around glass. 
@@ -137,6 +141,8 @@ A [Jelly Cube](#jelly-cube) is jammed within the mechanism that controls the poo
 
 ## 3. Petrification Pit
 
+<a href="../../assets/images/handouts/3_pit.png" target="_blank"><img src="../../assets/images/handouts/3_pit.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+
 ***Chains with shackles and 7 gold-plated spears (20 gp each) hang from the walls of the room.***
 
 ***Green light shines from inside a 4’ wall of stones circling a pit.*** The pit descends 80’ before opening into a room below (9). Its crumbling stonework makes it treacherous to climb. 30’ down, a stone figurehead of [The Medusa (10)](#the-medusa) juts from the south wall, its glowing green eyes fixed northward. Any flesh that falls under its gaze must save versus paralysis or turn to stone. 
@@ -144,6 +150,8 @@ A [Jelly Cube](#jelly-cube) is jammed within the mechanism that controls the poo
 Beneath the statue’s head, a silver coffer engraved with coiling serpents (200 gp) rests in outstretched hands. Inside lies a [Jaunt Lens](#jaunt-lens). If severed from the wall, the head’s petrifying magic continues to function for a month.
 
 ## 4. Transformation Chamber
+
+<a href="../../assets/images/handouts/4_archway.png" target="_blank"><img src="../../assets/images/handouts/4_archway.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***Tattered leather straps with rusted buckles are attached to a large oak table littered with scalpels and serrated spoons.*** A crumpled hooded cultist cloak, all black, lies in a heap in the dust under the table. 
 
@@ -172,6 +180,8 @@ Above the west door, a stone relief of a [Goat-Headed Demon](#goat-headed-demon)
 
 ## 5. Treasure Room 
 
+<a href="../../assets/images/handouts/5_eyeball_cropped.png" target="_blank"><img src="../../assets/images/handouts/5_eyeball_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+
 ***Piles of coins and jewels spill across the floor. Between them drift 4 [Floating Eyeballs](#floating-eyeball), 3’ in diameter. Sinuous tendrils trail behind each as they glide silently through the air.*** In sum, the piles of treasure hold:
 
 * 10,000 cp, 20,000 sp, 3,000 gp
@@ -199,6 +209,8 @@ The eyeballs guard the hoard from any who are not cultists. They float through t
 
 ## 6. Blind Faith
 
+<a href="../../assets/images/handouts/6_blind faith.png" target="_blank"><img src="../../assets/images/handouts/6_blind faith.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+
 Anyone who gazes into the room hears squeaky hinges and a loud slam as the enchanted chest closes. When no one is looking, the hinges whine again as the chest opens.
 
 ***A stone statue stands, blindfolded with a soiled cloth, its gaze fixed upon an oak chest on the floor.*** The indestructible chest is carved with scores of humans shielding their eyes. When observed, it snaps shut with lightning speed, sundering non-magic obstructions in its path. The chest opens only when no one is looking—including the statue if its blindfold is removed and its eyes meet the chest. Inside, dozens of fat, slimy grubs writhe atop a serpentine silver key (100 gp) to [The Medusa’s Lair (10)](#10-medusas-lair). 
@@ -207,13 +219,17 @@ Scratches mark the floor beside the statue revealing where it has been dragged a
 
 ***5 black, hooded cultist cloaks hang from the walls.***
 
-## 7. Monkey See  
+## 7. Monkey See
+
+<a href="../../assets/images/handouts/7_monkey statue.png" target="_blank"><img src="../../assets/images/handouts/7_monkey statue.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***A monkey statue gazes down at an empty silver offering plate (50gp) in its palms.*** A scroll tube hovers above the plate, tangible only when unobserved. The moment any eyes—creature or statue—fall upon it, the tube vanishes, reappearing in place when no one is looking. 
 
 Inside the scroll tube rests a [Planar Tapestry](#7-monkey-see), which can be viewed normally once removed. The tapestry depicts a lifelike scene from another plane of existence—it might be the River of Souls, a brass city adrift on a sea of fire, or a castle against a gray forest backdrop. This can be any location you wish to send the party to upon solving the puzzle of the [Navigation Room (8)](#8-navigation-room).
 
 ## 8. Navigation Room
+
+<a href="../../assets/images/handouts/8_navigation room_cropped.png" target="_blank"><img src="../../assets/images/handouts/8_navigation room_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***A round table hosts a clutter of cartography. At the table’s center is a wheel marked with runes of different colors.*** Empty tapestry frames hang on the walls. Scattered sheets of parchment on the table describe impossible worlds, with continents formed from spiraling gas and floating mountains of glass and flame. 
 
@@ -226,6 +242,8 @@ The wheel’s central hub is fixed to a spindle, allowing it to turn freely. Ato
 The locked iron door to the east is decorated with entwined serpents.
 
 ## 10. Medusa's Lair
+
+<a href="../../assets/images/handouts/10_lair.png" target="_blank"><img src="../../assets/images/handouts/10_lair.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***Braziers burn with green flame, casting shifting shadows across statues of armored warriors frozen mid-cower or recoil. Stepped landings are strewn with silk pillows, couches, and enormous shed snakeskins. Ornate columns rise overhead, carved with scenes of serpentine worship.***
 
