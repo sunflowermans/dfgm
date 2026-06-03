@@ -1,7 +1,7 @@
 ---
 title: "Puzzle Dungeon: The Seers Sanctum"
 description: "An eye-opening adventure for low-level OSE characters."
-nav_order: 1
+nav_order: 2
 ---
 
 # Puzzle Dungeon: The Seers Sanctum
@@ -92,7 +92,7 @@ Unless otherwise noted, dungeon areas are unlit. Doors are made of iron and have
 
 ## 1. Fetid Fountain
 
-<a href="../../assets/images/handouts/1_fetid fountain.png" target="_blank"><img src="../../assets/images/handouts/1_fetid fountain.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/1_fetid fountain.png" target="_blank"><img src="/assets/images/handouts/1_fetid fountain.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***A slick sheen covers the floors and walls.*** It is the lightly-acidic excretions of the [Gray Ooze](#gray-ooze) hiding in the fountain. 
 
@@ -113,7 +113,7 @@ The gears that control the iron door of this room are broken. The door slides up
 
 ## 2. Pool
 
-<a href="../../assets/images/handouts/2_pool.png" target="_blank"><img src="../../assets/images/handouts/2_pool.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/2_pool.png" target="_blank"><img src="/assets/images/handouts/2_pool.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***The middle of the room is a scum-filled pool. It runs from wall to wall, with its liquid resting just a foot below the rim.*** The water is 50’ feet deep and too cloudy to see through.  
 
@@ -122,7 +122,7 @@ The gears that control the iron door of this room are broken. The door slides up
 A [Jelly Cube](#jelly-cube) is jammed within the mechanism that controls the pool’s water level. When the pool is emptied and refilled, the jelly is forced through the pipes that feed the chamber and reforms to its natural 10-foot cube shape, a [Jaunt Lens](#jaunt-lens) suspended within its transparent mass. Its bulk displaces the water enough to make the pool overflow by about an inch.
 
 {: .item #jaunt-lens}
-> <a href="../../assets/images/handouts/jaunt lens horiz.png" target="_blank"><img src="../../assets/images/handouts/jaunt lens horiz.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+> <a href="/assets/images/handouts/jaunt lens horiz.png" target="_blank"><img src="/assets/images/handouts/jaunt lens horiz.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 > 
 > **Jaunt Lens**
 >
@@ -141,7 +141,7 @@ A [Jelly Cube](#jelly-cube) is jammed within the mechanism that controls the poo
 
 ## 3. Petrification Pit
 
-<a href="../../assets/images/handouts/3_pit.png" target="_blank"><img src="../../assets/images/handouts/3_pit.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/3_pit.png" target="_blank"><img src="/assets/images/handouts/3_pit.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***Chains with shackles and 7 gold-plated spears (20 gp each) hang from the walls of the room.***
 
@@ -151,7 +151,7 @@ Beneath the statue’s head, a silver coffer engraved with coiling serpents (200
 
 ## 4. Transformation Chamber
 
-<a href="../../assets/images/handouts/4_archway.png" target="_blank"><img src="../../assets/images/handouts/4_archway.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/4_archway.png" target="_blank"><img src="/assets/images/handouts/4_archway.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***Tattered leather straps with rusted buckles are attached to a large oak table littered with scalpels and serrated spoons.*** A crumpled hooded cultist cloak, all black, lies in a heap in the dust under the table. 
 
@@ -180,7 +180,7 @@ Above the west door, a stone relief of a [Goat-Headed Demon](#goat-headed-demon)
 
 ## 5. Treasure Room 
 
-<a href="../../assets/images/handouts/5_eyeball_cropped.png" target="_blank"><img src="../../assets/images/handouts/5_eyeball_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/5_eyeball_cropped.png" target="_blank"><img src="/assets/images/handouts/5_eyeball_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***Piles of coins and jewels spill across the floor. Between them drift 4 [Floating Eyeballs](#floating-eyeball), 3’ in diameter. Sinuous tendrils trail behind each as they glide silently through the air.*** In sum, the piles of treasure hold:
 
@@ -209,7 +209,7 @@ The eyeballs guard the hoard from any who are not cultists. They float through t
 
 ## 6. Blind Faith
 
-<a href="../../assets/images/handouts/6_blind faith.png" target="_blank"><img src="../../assets/images/handouts/6_blind faith.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/6_blind faith.png" target="_blank"><img src="/assets/images/handouts/6_blind faith.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 Anyone who gazes into the room hears squeaky hinges and a loud slam as the enchanted chest closes. When no one is looking, the hinges whine again as the chest opens.
 
@@ -221,7 +221,7 @@ Scratches mark the floor beside the statue revealing where it has been dragged a
 
 ## 7. Monkey See
 
-<a href="../../assets/images/handouts/7_monkey statue.png" target="_blank"><img src="../../assets/images/handouts/7_monkey statue.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/7_monkey statue.png" target="_blank"><img src="/assets/images/handouts/7_monkey statue.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***A monkey statue gazes down at an empty silver offering plate (50gp) in its palms.*** A scroll tube hovers above the plate, tangible only when unobserved. The moment any eyes—creature or statue—fall upon it, the tube vanishes, reappearing in place when no one is looking. 
 
@@ -229,7 +229,7 @@ Inside the scroll tube rests a [Planar Tapestry](#7-monkey-see), which can be vi
 
 ## 8. Navigation Room
 
-<a href="../../assets/images/handouts/8_navigation room_cropped.png" target="_blank"><img src="../../assets/images/handouts/8_navigation room_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/8_navigation room_cropped.png" target="_blank"><img src="/assets/images/handouts/8_navigation room_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***A round table hosts a clutter of cartography. At the table’s center is a wheel marked with runes of different colors.*** Empty tapestry frames hang on the walls. Scattered sheets of parchment on the table describe impossible worlds, with continents formed from spiraling gas and floating mountains of glass and flame. 
 
@@ -243,7 +243,7 @@ The locked iron door to the east is decorated with entwined serpents.
 
 ## 10. Medusa's Lair
 
-<a href="../../assets/images/handouts/10_lair.png" target="_blank"><img src="../../assets/images/handouts/10_lair.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<a href="/assets/images/handouts/10_lair.png" target="_blank"><img src="/assets/images/handouts/10_lair.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
 
 ***Braziers burn with green flame, casting shifting shadows across statues of armored warriors frozen mid-cower or recoil. Stepped landings are strewn with silk pillows, couches, and enormous shed snakeskins. Ornate columns rise overhead, carved with scenes of serpentine worship.***
 

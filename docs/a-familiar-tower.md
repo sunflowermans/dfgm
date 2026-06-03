@@ -1,12 +1,13 @@
 ---
 title: A Familiar Tower
 description: "When the wizard's away, the cat will play..."
-nav_order: 2
+nav_order: 3
 ---
 
 
 
 # A Familiar Tower
+{: .no_toc }
 
 ESCAPE ROOM ROLEPLAYING ADVENTURE FOR THIRD-LEVEL CHARACTERS
 
@@ -1041,7 +1042,6 @@ He attacks if the party split up or show signs of weakness.
 ## An escape room adventure for characters of 3rd levelAn escape room adventure for characters of 3rd level
 
 # Chapter 2: Brainstorming
-
 {: .no_toc }
 
 {: .note .callout}
