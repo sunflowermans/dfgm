@@ -180,7 +180,7 @@ Above the west door, a stone relief of a [Goat-Headed Demon](#goat-headed-demon)
 
 ## 5. Treasure Room 
 
-<a href="/assets/images/handouts/5_eyeball_cropped.png" target="_blank"><img src="/assets/images/handouts/5_eyeball_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a>
+<!-- <a href="/assets/images/handouts/5_eyeball_cropped.png" target="_blank"><img src="/assets/images/handouts/5_eyeball_cropped.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;"></a> -->
 
 ***Piles of coins and jewels spill across the floor. Between them drift 4 [Floating Eyeballs](#floating-eyeball), 3’ in diameter. Sinuous tendrils trail behind each as they glide silently through the air.*** In sum, the piles of treasure hold:
 

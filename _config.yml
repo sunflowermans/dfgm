@@ -133,6 +133,10 @@ nav_external_links:
 # Show navigation error report
 nav_error_report: true # default is false/nil.
 
+# Hide hover preview in nav bar
+hover_popup:
+  nav_hover_preview: false
+
 liquid:
   error_mode: strict
   strict_filters: true
@@ -170,9 +174,8 @@ callouts:
   monster:
     title: Monster
     color: red
-  josh:
-    title: Sidebar - Josh
-    color: green
+  monster-no-title:
+    color: red
   item:
     title: Item
     color: blue
