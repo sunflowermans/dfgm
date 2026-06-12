@@ -51,6 +51,22 @@ For more details, see [Advanced Tower Mechanics (p. 25)](#advanced-tower-mechani
 
 The adventure begins with the party sailing to Tower Mer. After several hours’ travel through rocky outcroppings and twisted passages, they unknowingly arrive at [*1A. Tabletop Water* (p. 6)](#1a-tabletop-water), already trapped within the tower.
 
+# Map
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/a-familiar-tower/tower-all-maps.png"
+  alt="Tower Mer"
+  loading="lazy"
+  data-jil-title="Tower Mer"
+  data-jil-regions="assets/maps/a-familiar-tower-all-maps.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="true"
+/>
+{:/nomarkdown}
+
 # Keys
 
 {: .note .callout}
@@ -137,7 +153,19 @@ green of age. Once shrunk, the key opens the door to [*3B. Library* (p. 15)](#3b
 
 # Level 0
 
-<a href="/assets/images/a-familiar-tower/tower-0.png" target="_blank"><img src="/assets/images/a-familiar-tower/tower-0.png" style=" margin:10px 10px 10px 10px;"></a>
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/a-familiar-tower/tower-0.png"
+  alt="Level 0"
+  loading="lazy"
+  data-jil-title="Level 0"
+  data-jil-regions="assets/maps/a-familiar-tower-0.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="true"
+/>
+{:/nomarkdown}
 
 ## 0A. Cellar
 
@@ -159,7 +187,19 @@ Beyond the barrels waits a magically locked secret door leading to [*0B. Moon Po
 
 # Level 2
 
-<a href="/assets/images/a-familiar-tower/tower-2.png" target="_blank"><img src="/assets/images/a-familiar-tower/tower-2.png" style=" margin:10px 10px 10px 10px;"></a>
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/a-familiar-tower/tower-2.png"
+  alt="Level 2"
+  loading="lazy"
+  data-jil-title="Level 2"
+  data-jil-regions="assets/maps/a-familiar-tower-2.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="true"
+/>
+{:/nomarkdown}
 
 ## 2A. Taxidermy Landing
 
@@ -198,7 +238,19 @@ three-foot spherical divot. When enlarged, [quartz marbles (p. 35)](#quartz-sphe
 
 # Level 3
 
-<a href="/assets/images/a-familiar-tower/tower-3.png" target="_blank"><img src="/assets/images/a-familiar-tower/tower-3.png" style="margin:10px 10px 10px 10px;"></a>
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/a-familiar-tower/tower-3.png"
+  alt="Level 3"
+  loading="lazy"
+  data-jil-title="Level 3"
+  data-jil-regions="assets/maps/a-familiar-tower-3.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="true"
+/>
+{:/nomarkdown}
 
 ## 3A. Solar System Landing
 
@@ -213,7 +265,19 @@ three-foot spherical divot. When enlarged, [quartz marbles (p. 35)](#quartz-sphe
 
 # Level 4
 
-<a href="/assets/images/a-familiar-tower/tower-4.png" target="_blank"><img src="/assets/images/a-familiar-tower/tower-4.png" style=" margin:10px 10px 10px 10px;"></a>
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/a-familiar-tower/tower-4.png"
+  alt="Level 4"
+  loading="lazy"
+  data-jil-title="Level 4"
+  data-jil-regions="assets/maps/a-familiar-tower-4.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="true"
+/>
+{:/nomarkdown}
 
 ## 4A. Model Room
 
@@ -234,7 +298,19 @@ Imperceptible from the surface, an 8ʺ rock lies at the bottom of the basin, and
 
 # Level 5
 
-<a href="/assets/images/a-familiar-tower/tower-5.png" target="_blank"><img src="/assets/images/a-familiar-tower/tower-5.png" style=" margin:10px 10px 10px 10px;"></a>
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/a-familiar-tower/tower-5.png"
+  alt="Level 5"
+  loading="lazy"
+  data-jil-title="Level 5"
+  data-jil-regions="assets/maps/a-familiar-tower-5.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="true"
+/>
+{:/nomarkdown}
 
 ## 5A. Kitchen
 
@@ -326,7 +402,19 @@ For shrunken characters, climbing between locations on the kitty condo takes the
 
 # Level -1
 
-<a href="/assets/images/a-familiar-tower/tower-treasure.png" target="_blank"><img src="/assets/images/a-familiar-tower/tower-treasure.png" style=" margin:10px 10px 10px 10px;"></a>
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/a-familiar-tower/tower-treasure.png"
+  alt="Level -1"
+  loading="lazy"
+  data-jil-title="Level -1"
+  data-jil-regions="assets/maps/a-familiar-tower-treasure.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="true"
+/>
+{:/nomarkdown}
 
 ## –1A. Treasure Vault
 
