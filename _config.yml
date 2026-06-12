@@ -56,6 +56,8 @@ exclude:
   - Dockerfile
   # theme test code
   - fixtures/
+  # faster dev builds
+#  - docs/ose-rules/
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"

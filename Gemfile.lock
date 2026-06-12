@@ -101,7 +101,7 @@ GEM
     jekyll-github-metadata (2.16.1)
       jekyll (>= 3.4, < 5.0)
       octokit (>= 4, < 7, != 4.4.0)
-    jekyll-hover-popup (0.1.0)
+    jekyll-hover-popup (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-image-links (0.1.0)
       jekyll (>= 3.7, < 5.0)
