@@ -9,8 +9,9 @@ gem "jekyll-hover-popup", group: :jekyll_plugins
 gem "jekyll-jtd-toc-nav", group: :jekyll_plugins
 gem "jekyll-dice-tray", group: :jekyll_plugins
 gem "jekyll-image-links", group: :jekyll_plugins
+gem "html-proofer", group: :jekyll_plugins
 
-gem "html-proofer", "~> 5.2", :group => :development
+# gem "html-proofer", "~> 5.2", :group => :development
 group :jekyll_plugins do
 #  gem "jekyll-jtd-toc-nav", path: "/home/chris/projects/toc-nav-2"
 #  gem "jekyll-dice-tray", path: "/home/chris/projects/dice-tray"
