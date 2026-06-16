@@ -11,25 +11,46 @@ nav_order: 3
 
 ESCAPE ROOM ROLEPLAYING ADVENTURE FOR THIRD-LEVEL CHARACTERS
 
-Requires *Old-School Essentials* to play.
+Requires *[Old-School Essentials](https://necroticgnome.com/pages/about-old-school-essentials)* to play.
 
 © 2026 Directsun Games
 
+Version 1.1
+
+All text in this document is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). The artwork presented is property of the original artist and is used with permission. Note that you may not publish or otherwise distribute this work as is without permission of the original artists; you must remove all non-licensed artwork before doing so.
+
+<div style="display: flex; gap: 10px;">
+<div>
+  <a href="/assets/images/a-familiar-tower/aft-back-cover-1-1.png" target="_blank" style="flex: 1;">
+    <img src="/assets/images/a-familiar-tower/aft-back-cover-1-1.png" style="width: 100%;">
+  </a>
+<center>Back Cover</center>
+</div>
+  <div>
+  <a href="/assets/images/a-familiar-tower/aft-front-cover-1-1.png" target="_blank" style="flex: 1;">
+    <img src="/assets/images/a-familiar-tower/aft-front-cover-1-1.png" style="width: 100%;">
+  </a>
+<center>Front Cover</center>
+</div>
+</div>
+
 # Credits
 
-Writing by **directsun**
+Writing by **[directsun](https://puzzledungeon.com/)**
 
-Cover art, interior art, and maps by **Skullboy**
+Cover art, interior art, and maps by **[Skullboy](https://betterlegends.com/)**
 
-Graphic design, line & copy editing, and development by **Sam Sorensen**
+Graphic design, line & copy editing, and development by **[Sam Sorensen](https://samsorensen.blot.im/)**
 
-Advice and consultation from **Amanda P**
+Advice and consultation from **[Amanda P](https://www.weirdwonder.net/)**
 
 *Playtesters:* Stripe, Dwiz, DustyHalo, Eric Strandvold, Kevin Ward, Brad Kerr, Yochai Gal, Kari Aldrich, Sam Mameli, Joseph R. Lewis, Will Morgan, Adam Lyons, Ajay “Rytgar” Sandhu, Matthew Fee, Jesse Winter, Michael Burns, directsun’s dad, Matthew Kang, Reynor Padilla, Ryan Brown, Nina Davis
 
 [Spells on p. 36–37](#spells) were inspired by spark tables in *Maze Rats* and *Knave* by Ben Milton.
 
 *Old-School Essentials* is a trademark of Necrotic Gnome. The trademark and *Old-School Essentials* logo are used with permission of Necrotic Gnome, under license.
+
+**More resources and downloads available at [PuzzleDungeon.com](https://puzzledungeon.com)**
 
 {: .note-title .callout}
 

@@ -9,7 +9,7 @@ group :jekyll_plugins do
 	gem "jekyll-sitemap"
 	gem "jekyll-hover-popup"
 	gem "jekyll-jtd-toc-nav"
-	gem "jekyll-dice-tray"
+	gem "jekyll-dice-tray" 
 	gem "jekyll-image-links"
 #  gem "jekyll-jtd-toc-nav", path: "/home/chris/projects/toc-nav-2"
 #  gem "jekyll-dice-tray", path: "/home/chris/projects/dice-tray"
