@@ -3,7 +3,7 @@ title: Digital-first GM
 layout: home
 nav_order: 0
 description: "The landing page for the Digital-first GM."
-permalink: /
+permalink: /dfgm
 nav_exclude: true
 ---
 
