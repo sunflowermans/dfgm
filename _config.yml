@@ -16,8 +16,8 @@
 title: Digital-first GM
 description: Run your elfgames focused on digital-first.
 theme: just-the-docs
-baseurl: ""
-url: "https://dungeons.hismajestytheworm.games"
+baseurl: "/dfgm"
+url: "https://sunflowermans.github,io"
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
